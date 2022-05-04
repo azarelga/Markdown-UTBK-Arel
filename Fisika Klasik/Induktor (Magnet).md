@@ -1,0 +1,2 @@
+# Definisi
+Induksi adala

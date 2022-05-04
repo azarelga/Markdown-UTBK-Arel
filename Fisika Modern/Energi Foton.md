@@ -1,0 +1,1 @@
+You are looking for [[Teori Quantum]], it's literally the same.
