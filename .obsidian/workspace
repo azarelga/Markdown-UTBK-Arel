@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologi/Anabolisme.md",
+            "file": "Biologi/Biodefinitions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologi/Anabolisme.md",
+                "file": "Biologi/Biodefinitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,8 +79,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "bb8fd25bf1ca2884",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,15 +98,15 @@
   },
   "active": "adbf85c056e50961",
   "lastOpenFiles": [
-    "Biologi/Anabolisme.md",
     "Biologi/Biodefinitions.md",
-    "Biologi/Katabolisme.md",
+    "Biologi/Anabolisme.md",
     "Biologi/Metabolisme Tumbuhan.md",
-    "Biologi/Meiosis.md",
+    "Biologi/Katabolisme.md",
     "Biologi/Biochemistry.md",
+    "Biologi/Meiosis.md",
     "Biologi/Pembelahan Sel.md",
     "Biologi/Mitosis.md",
-    "Biologi/Defisiensi Nutrisi Daun.md",
-    "Biologi/MOC Metabolisme.md"
+    "Biologi/Glikolisis.md",
+    "Biologi/Defisiensi Nutrisi Daun.md"
   ]
 }

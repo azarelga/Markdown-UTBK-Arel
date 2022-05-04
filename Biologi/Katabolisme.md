@@ -3,7 +3,7 @@
 
 - Menghasilkan ATP
 - Terjadi sebelum anabolisme
-- Di
+- Terjadi pada Membran Plasma dan Mitokondria (matriks)
 
 ## Respirasi Aerob
 Menggunakan Oksigen
