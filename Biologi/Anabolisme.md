@@ -1,7 +1,7 @@
 # Anabolisme 
 ![[Pasted image 20220504212841.png]]
 
-Menggunakan ATP
+- Menggunakan ATP
 
 
 ## Reaksi Terang (Fotosintesis)
@@ -11,10 +11,18 @@ Menggunakan ATP
 
 
 
-## Reaksi Gelap (Siklus Calvin)
+## Reaksi Gelap 
 Reaksi yang dimulai dari CO2 dan RuBP 
 > $$RuBP + CO2 + NADPH + ATP \rightarrow C_6H_{12}O_6 + NADP^+$$
 > 
+
+Reaksi Gelap dapat berlangsung melalui 4 jalur :
+1. Siklus Calvin (C3)
+2. Siklus Hatch-Slack (C4)
+3. Siklus CAM (Crassulacean Acid Method)
+	Dilakukan oleh tumbuhan yang tumbuh di padang gurun. Stomatanya gadibuka pas siang, dibukanya pas malem jadinya dia nimbun CO2 pas siangnya.
+4. Siklus Glikolat (C2)
+	
 
 ## Kemosintesis
 Weird fellas doing some idk farming karbohidrat with senyawa kimia??? For example :

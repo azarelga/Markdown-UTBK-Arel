@@ -1,8 +1,11 @@
 # Katabolisme
-![[Pasted image 20220504213814.png]]
-Menghasilkan ATP
+![[Pasted image 20220504214538.png]]
 
-- ## Respirasi Aerob
+- Menghasilkan ATP
+- Terjadi sebelum anabolisme
+- Di
+
+## Respirasi Aerob
 Menggunakan Oksigen
 1. **[[Glikolisis]]**
 2. **Dekarboksilasi (Pembentukan Asetil CoA)**
@@ -10,6 +13,6 @@ Menggunakan Oksigen
 4. **Transfer Elektron (Farming ATP) ** 
 
 
-- ## Respirasi Anaerob
+## Respirasi Anaerob
 Tidak menggunakan oksigen (fermentasi)
 1. **Glikolisis Anaerob ()**
