@@ -31,7 +31,6 @@ maka, rumus **kesetimbangan tekanannya** adalah
 ## 2.  Perubahan Tekanan
 - Tekanan 📈 -> Bergeser ke koefisien **kecil**
 - Tekanan 📉 -> Bergeser ke koefisien **besar**
-- 
 
 ## 3. Perubahan Volume
 - Volume 📈 -> Bergeser ke koefisien **besar**

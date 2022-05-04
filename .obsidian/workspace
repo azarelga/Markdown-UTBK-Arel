@@ -7,8 +7,12 @@
         "id": "adbf85c056e50961",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Kimia/Kesetimbangan.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kimia/Kesetimbangan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "adbf85c056e50961",
   "lastOpenFiles": [
+    "Kimia/Kesetimbangan.md",
     "MOC Fisika Klasik.md",
     "Biologi/Metabolisme Tumbuhan.md",
     "Biologi/Biodefinitions.md",
@@ -92,7 +98,6 @@
     "Biologi/Glikolisis.md",
     "Biologi/MOC Metabolisme.md",
     "Biologi/Defisiensi Nutrisi Daun.md",
-    "Biologi/Mitosis.md",
-    "Biologi/Meiosis.md"
+    "Biologi/Mitosis.md"
   ]
 }
