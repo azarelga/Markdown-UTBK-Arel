@@ -7,7 +7,7 @@
 # Kesetimbangan Konsentrasi
 Diketahui sebuah reaksi $$pA + qB \leftrightarrow rC + sD$$
 maka, rumus **kesetimbangan konsentrasinya** adalah
-> $$K_{c}= \frac{[C]^{r}[D]^{s}}{{{[A]^{p}[B]^{q}}}}$$
+> $$K_{c}= \frac{[C]^{r}[D]^{s}}{[A]^{p}[B]^{q}}$$
 > $[X]$ = Konsentrasi molekul nya
 
 > PERLU DIINGAT! Yang dimasukkin rumus Kc itu Gas doang! Solid, Liquid, Aquos ga masuk!

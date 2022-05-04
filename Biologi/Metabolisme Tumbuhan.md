@@ -1,5 +1,6 @@
-# Katabolisme
+# Katabolisme (sebelum)
 Menghasilkan ATP
+
 - ## Respirasi Aerob
 Menggunakan Oksigen
 1. **[[Glikolisis]]**
@@ -11,16 +12,19 @@ Menggunakan Oksigen
 - ## Respirasi Anaerob
 Tidak menggunakan oksigen (fermentasi)
 1. **Glikolisis Anaerob ()**
-
-
-# Anabolisme
+---
+# Anabolisme (sesudah)
 Menggunakan ATP
 
-- ## Reaksi Terang
-Reaksi yang dimulai dari H2O
+## Reaksi Terang (Fotosintesis)
+- Reaksi yang dimulai dari H2O
+> $$H_{2}O \rightarrow O_2 + NADP^+ + H^+ + e^- + ATP$$
+- Terjadi pada Tilakoid, yang terdapat pada Grana, yang terdapat pada Kloroplas, yang terdapat pada Klorofil
+- 
 
-- ## Reaksi Gelap
-Reaksi yang dimulai dari CO2
+
+## Reaksi Gelap (Kemosintesis)
+Reaksi yang dimulai dari CO2 dan RuBP 
 > $$RuBP + CO2 + NADPH + ATP \rightarrow C_6H_{12}O_6 + NADP^+$$
 > 
 

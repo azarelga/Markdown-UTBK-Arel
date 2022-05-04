@@ -11,3 +11,4 @@
 - **Siklus Krebs** : Menghasilkan FADH2 (2 ATP, 6 NADH2, 2 FADH2, 4CO2)
 - **Dekarboksilasi** : Menghasilkan Asetil CoA (2 asetil CoA, 2 NADH2, 2 CO2)
 - **Rantai Transfer Elektron** : Menghasilkan paling banyak ATP (34 ATP, 6 H2O)
+- **Fotosistem** : suatu protein yang terdapat pada membran tilakoid yang mengandung kumpulan pigmen fotosintetik dan senyawa organik di dalamnya.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kimia/Kesetimbangan.md",
+            "file": "Biologi/Biodefinitions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kimia/Kesetimbangan.md",
+                "file": "Biologi/Biodefinitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   },
   "active": "adbf85c056e50961",
   "lastOpenFiles": [
+    "Biologi/Biodefinitions.md",
+    "Biologi/Metabolisme Tumbuhan.md",
+    "Biologi/MOC Metabolisme.md",
     "Kimia/Kesetimbangan.md",
     "MOC Fisika Klasik.md",
-    "Biologi/Metabolisme Tumbuhan.md",
-    "Biologi/Biodefinitions.md",
     "Biologi/Pembelahan Sel.md",
     "Biologi/Biochemistry.md",
     "Biologi/Glikolisis.md",
-    "Biologi/MOC Metabolisme.md",
     "Biologi/Defisiensi Nutrisi Daun.md",
     "Biologi/Mitosis.md"
   ]
