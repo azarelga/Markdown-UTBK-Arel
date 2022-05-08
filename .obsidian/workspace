@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologi/Biodefinitions.md",
+            "file": "Fisika Klasik/Gaya Pegas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologi/Biodefinitions.md",
+                "file": "Fisika Klasik/Gaya Pegas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "adbf85c056e50961",
   "lastOpenFiles": [
+    "Fisika Klasik/Gaya Pegas.md",
+    "Fisika Klasik/Gelombang dan Getaran.md",
+    "Fisika Klasik/Fluks Magnet.md",
+    "Fisika Klasik/Magnet.md",
     "Biologi/Biodefinitions.md",
     "Biologi/Anabolisme.md",
     "Biologi/Metabolisme Tumbuhan.md",
     "Biologi/Katabolisme.md",
     "Biologi/Biochemistry.md",
-    "Biologi/Meiosis.md",
-    "Biologi/Pembelahan Sel.md",
-    "Biologi/Mitosis.md",
-    "Biologi/Glikolisis.md",
-    "Biologi/Defisiensi Nutrisi Daun.md"
+    "Biologi/Meiosis.md"
   ]
 }
