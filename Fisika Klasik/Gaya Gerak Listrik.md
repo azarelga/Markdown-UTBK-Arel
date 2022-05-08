@@ -5,5 +5,7 @@
 > $W$ = Usaha (Joule)
 > $Q$ = Muatan (Coulomb)
 
-Biasanya, Gaya Gerak Listrik itu ditanyain di soal soal [[Hukum Kirchoff]].
+Biasanya, Gaya Gerak Listrik itu ditanyain di soal soal [[Hukum Kirchoff]]. Selain itu, Gaya Gerak Listrik itu sebenarnya dirumuskan oleh Faraday, sehingga GGL memiliki sedikit hubungan dengan [[Hukum Faraday]]
+
+Selain itu, biasanya GGL itu memiliki sesuatu yang disebut dengan **Hambatan Dalam** 
 
