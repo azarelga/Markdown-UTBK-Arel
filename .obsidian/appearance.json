@@ -3,6 +3,7 @@
   "enabledCssSnippets": [
     "big-math"
   ],
-  "cssTheme": "Big Sur Aesthetic",
-  "translucency": false
+  "cssTheme": "Things",
+  "translucency": false,
+  "theme": "obsidian"
 }
