@@ -54,6 +54,7 @@
 	- [[Induksi Magnetik#Induksi]]
 	- [[Induksi Magnetik#Medan]]
 - [[Induksi Elektromagnetik]]
+	- [[Gaya Gerak Listrik]]
 - [[Gaya Lorentz]]
 ---
 ## [[Listrik Bolak-Balik]]

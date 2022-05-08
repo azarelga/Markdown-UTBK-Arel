@@ -1,10 +1,10 @@
 # Definisi
-Medan Listrik merupakan
+Medan Listrik merupakan sebuah medan yang menunjukkan satu titik muatan yang mempengaruhi satu titik asal. Biasanya pada sebuah rangkaian, Medan Listrik selalu bergerak dari kutub positif ke kutub negatif 
 # Rumus
 ## Kuat Medan Listrik
 > $$E = \frac{F_{c}}{q} = k \frac{q}{r^{2}}$$
 > $F_{c}$ = [[Gaya Listrik]]
-> $E$ = Kuat Medan Listrik ($NC^{-1}$ atau Tesla)
+> $E$ = Kuat Medan Listrik ($NC^{-1}$ atau Tesla) = Volt/meter
 > $k$ = $\frac{1}{4\pi\varepsilon_{o}}$ 
 > $q$ = Muatan Listrik (C)
 > r = Jarak antara titik dengan muatan listrik
