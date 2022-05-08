@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Gerak Melingkar Vertikal.md",
+            "file": "Fisika Klasik/Gerak Rotasi.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Gerak Melingkar Vertikal.md",
+                "file": "Fisika Klasik/Gerak Rotasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "adbf85c056e50961",
   "lastOpenFiles": [
+    "Fisika Klasik/Gerak Rotasi.md",
     "Fisika Klasik/Gerak Melingkar Vertikal.md",
+    "Fisika Klasik/Gerak Harmonik Sederhana.md",
     "Fisika Klasik/Capasitors.md",
     "Fisika Klasik/Listrik Statis.md",
     "Fisika Klasik/Listrik Dinamis.md",
     "Fisika Klasik/Listrik Bolak-Balik.md",
     "Fisika Klasik/Bunyi.md",
     "Fisika Klasik/Magnet.md",
-    "Fisika Klasik/Induksi Magnetik.md",
-    "Fisika Klasik/Fluks Magnet.md",
-    "Fisika Klasik/Mechanical Notes.md"
+    "Fisika Klasik/Induksi Magnetik.md"
   ]
 }
