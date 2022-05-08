@@ -7,8 +7,12 @@
         "id": "adbf85c056e50961",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Biologi/Metabolisme Tumbuhan.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sentripetal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biologi/Metabolisme Tumbuhan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +89,9 @@
   },
   "active": "adbf85c056e50961",
   "lastOpenFiles": [
-    "MOC Fisika Klasik.md",
     "Biologi/Metabolisme Tumbuhan.md",
     "Biologi/Biodefinitions.md",
+    "MOC Fisika Klasik.md",
     "Biologi/Pembelahan Sel.md",
     "Biologi/Biochemistry.md",
     "Biologi/Glikolisis.md",
