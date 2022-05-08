@@ -1,11 +1,15 @@
 # List of Physics Chronologically
+
 ## Mekanika
+- [[Resultan Vektor]]
 - [[Gaya]]
 - [[GLBB]]
 - [[Projectile Motion]]
 - [[Momentum dan Impuls]]
 - [[Torsi]]
 - [[Gerak Rotasi]]
+- [[Gaya Sentripetal]]
+- [[Gerak Harmonik Sederhana]]
 - [[Mechanical Notes]]
 ---
 ## [[Termodinamika]]
@@ -23,7 +27,9 @@
 ## [[Gelombang dan Getaran]]
 - [[Gelombang dan Getaran#Getaran]]
 - [[Gelombang dan Getaran#Gelombang]]
+- [[Gerak Harmonik Sederhana]]
 - [[Bunyi]]
+- [[Gaya Pegas]]
 ---
 ## Energi
 - [[Hukum Kekekalan Energi]]
@@ -47,6 +53,9 @@
 - [[Listrik Dinamis#Hukum Ohm]]
 - [[Listrik Dinamis#Hambatan Jenis]]
 - [[Hukum Kirchoff]]
+- [[Rangkaian Listrik]]
+- [[Gaya Gerak Listrik]]
+- [[Transformator]]
 ---
 ## [[Magnet]]
 - [[Fluks Magnet]]

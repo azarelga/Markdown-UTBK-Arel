@@ -5,4 +5,3 @@
 Rumus Gaya Sentripetal bakal berguna untuk :
 - [[Gaya Lorentz]]
 - [[Gaya Gravitasi]]
-- [[]]

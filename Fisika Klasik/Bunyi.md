@@ -1,4 +1,5 @@
-# Taraf Intensitas
+# Rumus
+## Taraf Intensitas
 Rumus umumnya adalah :
 > $$TI = 10.log(\frac{I}{I_{0}})$$
 > $I_{0}$ = Intensitas ambang = $10^{-12}$

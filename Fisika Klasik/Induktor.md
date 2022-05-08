@@ -11,12 +11,12 @@
 
 ## Induktansi
 > $$\varepsilon = -L \frac{di}{dt}$$
-> L = Induktansi (H atau Henry)
-> i = Arus 
-> t = Waktu
+> $L$ = Induktansi (H atau Henry)
+> $i$ = Arus 
+> $t$ = Waktu
 
 Selain itu, kita dapat definisikan Induktansi apabila kita ambil rumus dari [[Induktor#Hukum Faraday]] adalah
 
 >$$L = \frac{N\phi_{B}}{i}$$
->N = Jumlah Lilitan
->i = Arus
+>$N$ = Jumlah Lilitan
+>$i$ = Arus

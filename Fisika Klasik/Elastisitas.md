@@ -1,24 +1,24 @@
 # Rumus 
-#### Regangan
+## Regangan
 Regangan adalah perbandingan pertambahan panjang dan panjang asli
 > $$ e = \frac{\triangle  x}{x_{o}} $$
 >  e = Regangan 
 >  $\triangle x$ = Pertambahan Panjang
 >  $x_{o}$ = Panjang Awal
 
-#### Tegangan
+## Tegangan
 Tegangan memiliki persamaan yang sama persis dengan [[Tekanan]] karena mereka sama sama memiliki satuan yang sama, rumusnya adalah perbandingan gaya dan luas permukaan
 > $$\sigma = \frac{F}{A}$$
 > $\sigma$ = Tegangang (Pa)
 > F = Gaya
 > A = Luas Permukaan
 
-#### Modulus Elastisitas
+## Modulus Elastisitas
 Moudlus Elastisitas adalah perbandingan tegangan dan regangan
 > $$E = \frac{\sigma}{e}= \frac{F}{A}\times \frac{x_{o}}{\triangle x} $$
 > E = Modulus Elastisitas (Pa)
 
-#### Hukum Hooke
+## Hukum Hooke
 [[Gaya Pegas]] dapat kita temukan dari penurunan sederhana dari Modulus Elastisitas karena ada F nya ya kita bisa otak atik sampe nemuin rumus $F = k \triangle x$
 
 $E = \frac{F}{A}\times \frac{x_{o}}{\triangle x}$

@@ -4,14 +4,14 @@
 **Gaya Lorentz** adalah besaran vektor, dan arahnya ditentukan oleh kaidah tangan kiri Flemming (tegak lurus arus listrik dan medan magnet).
 ## Pada Kawat Berarus
 > $$F = B.i.l. sin\alpha$$
-> B = Medan Magnet
+> $B$ = Medan Magnet
 > $l$ = Panjang Kawat (m)
-> i = Arus listrik
+> $i$ = Arus listrik
 > $\alpha$ = Sudut antara B dan i 
 
 ## Pada Muatan yang bergerak pada Medan Magnet
 > $$F = B.q.v. sin\alpha$$
-> B = Medan Magnet
+> $B$ = Medan Magnet
 > $q$ = Muatan Listrik (C)
 > $v$ = Kecepatan gerak muatan q (m/s)
 > $\alpha$ = Sudut antara B dan i 
@@ -22,10 +22,10 @@ $$F_{lorentz} = F_{sp}$$
 $$Bqv = \frac{mv^{2}}{r}$$
 Maka, kita bisa otak - atik sehingga menemukan jari - jari lintasan menjadi :
 > $$r = \frac{mv}{Bq}$$
-> r = Jari - Jari lintasan
-> B = Medan Magnet
-> m = Massa Objek
-> q = Muatan Objek
+> $r$ = Jari - Jari lintasan
+> $B$ = Medan Magnet
+> $m$ = Massa Objek
+> $q$ = Muatan Objek
 
 Sebenernya, lu bisa cari hubungan massa dengan arus suatu kawat. Tinggal lu otak atik dengan persamaan $F_{lorents}=bil$ dan lo bisa nemuin hubungannya dengan $F_{sp}$
 

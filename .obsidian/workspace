@@ -7,17 +7,9 @@
         "id": "421948417e154751",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "28b71e4174572e9e",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Fisika Klasik/Transformator.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Fisika Klasik/Transformator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "28b71e4174572e9e",
+  "active": "421948417e154751",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Fisika Klasik/Gerak Melingkar Vertikal.md",
-    "Fisika Klasik/Gerak Harmonik Sederhana.md",
+    "Fisika Klasik/Transformator.md",
+    "Fisika Klasik/Zat dan Kalor.md",
+    "Fisika Klasik/Projectile Motion.md",
+    "Fisika Klasik/Rangkaian Listrik.md",
+    "Fisika Klasik/Induktor.md",
+    "Fisika Klasik/GLBB.md",
+    "Fisika Klasik/Hukum Kekekalan Energi.md",
     "Fisika Klasik/Gerak Rotasi.md",
-    "Fisika Klasik/Gelombang dan Getaran.md",
-    "Fisika Klasik/Capasitors.md",
-    "Fisika Klasik/Listrik Statis.md",
-    "Fisika Klasik/Listrik Dinamis.md",
-    "Fisika Klasik/Listrik Bolak-Balik.md",
-    "Fisika Klasik/Bunyi.md"
+    "Fisika Klasik/Gerak Melingkar Vertikal.md",
+    "Fisika Klasik/Gerak Harmonik Sederhana.md"
   ]
 }
