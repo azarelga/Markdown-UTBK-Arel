@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Hukum Kirchoff.md",
+            "file": "Fisika Klasik/Bunyi.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Hukum Kirchoff.md",
+                "file": "Fisika Klasik/Bunyi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "adbf85c056e50961",
   "lastOpenFiles": [
+    "Fisika Klasik/Bunyi.md",
+    "Fisika Klasik/Magnet.md",
+    "Fisika Klasik/Induksi Magnetik.md",
+    "Fisika Klasik/Fluks Magnet.md",
+    "Fisika Klasik/Mechanical Notes.md",
     "Fisika Klasik/Hukum Kirchoff.md",
     "Fisika Klasik/Gaya Gerak Listrik.md",
     "Fisika Klasik/Induksi Elektromagnetik.md",
     "MOC Fisika Klasik.md",
-    "Kimia/Hukum Faraday.md",
-    "MOC Kimia.md",
-    "LaTex Symbols.md",
-    "Fisika Klasik/Medan Listrik.md",
-    "Fisika Klasik/Momentum dan Impuls.md",
-    "Fisika Klasik/Elastisitas.md"
+    "Kimia/Hukum Faraday.md"
   ]
 }

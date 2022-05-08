@@ -63,3 +63,10 @@ Rumus dari Medan Magnet adalah :
 >$r$ = Jarak titik ke kawat (m)
 >$B$ = Medan Magnet (Tesla)
 
+
+## Medan Magnet pada Partikel
+
+> $$B = \frac{E}{v}$$
+> E = Medan Listrik
+> v = Kecepatan Partikel
+
