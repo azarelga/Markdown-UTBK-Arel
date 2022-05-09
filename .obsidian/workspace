@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kimia/Formal Charge.md",
+            "file": "Fisika Klasik/Termodinamika.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kimia/Formal Charge.md",
+                "file": "Fisika Klasik/Termodinamika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "46430e25f3bab41e",
   "lastOpenFiles": [
+    "Fisika Klasik/Termodinamika.md",
+    "Fisika Klasik/Mechanical Notes.md",
+    "Fisika Klasik/Torsi.md",
+    "Fisika Klasik/Momentum dan Impuls.md",
     "Kimia/Formal Charge.md",
     "Kimia/Hukum Faraday.md",
     "conflict-files-obsidian-git.md",
     "MOC Kimia.md",
     "MOC Fisika Klasik.md",
-    "Fisika Klasik/Gelombang dan Getaran.md",
-    "LaTex Symbols.md",
-    "Fisika Klasik/Induktor (Magnet).md",
-    "Fisika Klasik/Induktor.md",
-    "Fisika Klasik/Termodinamika.md"
+    "Fisika Klasik/Gelombang dan Getaran.md"
   ]
 }
