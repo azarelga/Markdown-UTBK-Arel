@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Transformator.md",
+            "file": "Kimia/Sel Elektrolisis.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Transformator.md",
+                "file": "Kimia/Sel Elektrolisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "421948417e154751",
   "lastOpenFiles": [
+    "Kimia/Sel Elektrolisis.md",
+    "Kimia/Reaksi Kimia Organik.md",
     "Fisika Klasik/Transformator.md",
     "Fisika Klasik/Zat dan Kalor.md",
     "Fisika Klasik/Projectile Motion.md",
@@ -104,8 +106,6 @@
     "Fisika Klasik/Induktor.md",
     "Fisika Klasik/GLBB.md",
     "Fisika Klasik/Hukum Kekekalan Energi.md",
-    "Fisika Klasik/Gerak Rotasi.md",
-    "Fisika Klasik/Gerak Melingkar Vertikal.md",
-    "Fisika Klasik/Gerak Harmonik Sederhana.md"
+    "Fisika Klasik/Gerak Rotasi.md"
   ]
 }
