@@ -3,7 +3,7 @@ PBO (Perubahan [[Bilangan Oksidasi]]) adalah hasil kali antara Elektron reduksi 
 > $$ PBO = Reduksi \times Oksidasi$$
 
 ## Contoh
-$$5MnO_2 + 4H^+ → 3Mn^{2+}  + 2H_{2}O + 2MnO_{4}^{–}$$
+$$5MnO_2 + 4H^{+} \rightarrow 3Mn^{2+}+ 2H_{2}O + 2MnO_{4}^{–}$$
 
 **Diketahui :** Mol MnO2 = 2,5 Mol
 **Ditanya :**

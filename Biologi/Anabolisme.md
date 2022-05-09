@@ -20,7 +20,7 @@ Reaksi Gelap dapat berlangsung melalui 4 jalur :
 1. **Siklus Calvin (C3)**
 	This is the way
 2. **Siklus Hatch-Slack (C4)**
-	Dilakukan oleh tumbuhan yang hidup di lahan terbuka. Biasnaya pada lingkungan kondisi kering atau kurang air, dia bisa bikin kadar air jadi lebih efisiensi guys!! (Tebu contohnya)
+	Dilakukan oleh tumbuhan yang hidup di lahan terbuka. Biasanya pada lingkungan kondisi kering atau kurang air, dia bisa bikin kadar air jadi lebih efisiensi guys!! (Tebu contohnya)
 3. **Siklus CAM (Crassulacean Acid Method)**
 	Dilakukan oleh tumbuhan yang tumbuh di padang gurun. Stomatanya gadibuka pas siang, dibukanya pas malem jadinya dia nimbun CO2 pas siangnya. (Kaktus contohnya)
 4. **Siklus Glikolat (C2)**

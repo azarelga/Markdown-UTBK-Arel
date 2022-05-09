@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kimia/Hukum Faraday.md",
+            "file": "Fisika Klasik/Termodinamika.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kimia/Hukum Faraday.md",
+                "file": "Fisika Klasik/Termodinamika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "421948417e154751",
   "lastOpenFiles": [
-    "Kimia/Hukum Faraday.md",
-    "Kimia/Sel Elektrolisis.md",
-    "Kimia/Reaksi Kimia Organik.md",
-    "Fisika Klasik/Transformator.md",
-    "Fisika Klasik/Zat dan Kalor.md",
-    "Fisika Klasik/Projectile Motion.md",
-    "Fisika Klasik/Rangkaian Listrik.md",
-    "Fisika Klasik/Induktor.md",
-    "Fisika Klasik/GLBB.md",
-    "Fisika Klasik/Hukum Kekekalan Energi.md"
+    "Fisika Klasik/Termodinamika.md",
+    "Fisika Klasik/Gerak Harmonik Sederhana.md",
+    "MOC Fisika Klasik.md",
+    "Fisika Klasik/Gerak Melingkar Vertikal.md",
+    "Fisika Klasik/Gelombang dan Getaran.md",
+    "Fisika Klasik/Gaya Pegas.md",
+    "Fisika Klasik/Gaya Lorentz.md",
+    "Fisika Klasik/Gerak Rotasi.md",
+    "Fisika Klasik/Gaya Listrik.md",
+    "MOC Biologi.md"
   ]
 }
