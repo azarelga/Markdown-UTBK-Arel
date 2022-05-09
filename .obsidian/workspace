@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "421948417e154751",
+        "id": "46430e25f3bab41e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kimia/Hukum Faraday.md",
+            "file": "Kimia/Formal Charge.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sentripetal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kimia/Hukum Faraday.md",
+                "file": "Kimia/Formal Charge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "bb8fd25bf1ca2884",
+            "id": "1e48454c2c0c662b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -93,19 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.9852294921875
   },
-  "active": "421948417e154751",
+  "active": "46430e25f3bab41e",
   "lastOpenFiles": [
+    "Kimia/Formal Charge.md",
     "Kimia/Hukum Faraday.md",
-    "Kimia/Sel Elektrolisis.md",
-    "Kimia/Reaksi Kimia Organik.md",
-    "Fisika Klasik/Transformator.md",
-    "Fisika Klasik/Zat dan Kalor.md",
-    "Fisika Klasik/Projectile Motion.md",
-    "Fisika Klasik/Rangkaian Listrik.md",
+    "conflict-files-obsidian-git.md",
+    "MOC Kimia.md",
+    "MOC Fisika Klasik.md",
+    "Fisika Klasik/Gelombang dan Getaran.md",
+    "LaTex Symbols.md",
+    "Fisika Klasik/Induktor (Magnet).md",
     "Fisika Klasik/Induktor.md",
-    "Fisika Klasik/GLBB.md",
-    "Fisika Klasik/Hukum Kekekalan Energi.md"
+    "Fisika Klasik/Termodinamika.md"
   ]
 }
