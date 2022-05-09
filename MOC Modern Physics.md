@@ -14,6 +14,7 @@
 * [[Efek Fotolistrik]]
 * [[Efek Compton]]
 * [[Gelombang De Broglie]]
+* [[Energi Gelombang dan Daya]]
 
 ## Formulas YSK
 ### Relativity

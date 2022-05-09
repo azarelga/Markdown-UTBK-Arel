@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Modern/Relativitas.md",
+            "file": "Fisika Klasik/Daya Listrik.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Modern/Relativitas.md",
+                "file": "Fisika Klasik/Daya Listrik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,12 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Fisika Modern/Relativitas.md",
+    "Fisika Klasik/Daya Listrik.md",
+    "Energi Gelombang dan Daya.md",
     "MOC Modern Physics.md",
-    "Fisika Modern/Efek Compton.md",
     "Fisika Modern/Gelombang De Broglie.md",
+    "Fisika Modern/Relativitas.md",
+    "Fisika Modern/Efek Compton.md",
     "Fisika Klasik/Listrik Bolak-Balik.md",
     "Fisika Klasik/Termodinamika.md",
     "LaTex Symbols.md"

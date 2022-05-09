@@ -1,3 +1,4 @@
+![[Pasted image 20220509160450.png]]
 Sebelumnya kita ketahui bahwa panjang gelombang oleh [[Efek Compton#Panjang Gelombang Compton]] adalah 
 $$\lambda = \frac{h}{p}$$
 >P adalah momentum menurut fisika klasik. Tapi disini kita anggep $v$ nya itu kecepatan cahaya, yaitu $c$
