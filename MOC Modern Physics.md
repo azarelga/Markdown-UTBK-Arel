@@ -5,15 +5,20 @@
 * Maka, Fisika Modern lahir karena terbitnya beberapa konsep - konsep baru
 
 ## List of Modern Physics Chronologically
+### Pergeseran Wien
+* [[Radiasi Benda Hitam]]
+
 ### Relativity
 - [[Relativitas]]
 
 ### Dualisme Cahaya 
-* [[Radiasi Benda Hitam]]
+#### Sebagai Partikel
 * [[Teori Quantum]]
 * [[Efek Fotolistrik]]
 * [[Efek Compton]]
+#### Sebagai Gelombang
 * [[Gelombang De Broglie]]
+#### Intersections of Both Ideas
 * [[Energi Gelombang dan Daya]]
 
 ## Formulas YSK
