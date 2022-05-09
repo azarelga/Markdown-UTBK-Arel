@@ -5,7 +5,15 @@
 > R = 0,082
 > T = Suhu (kelvin)
 > n = mol 
-#### Kalor Jenis
+
+
+## Hukum 1
+> $$$$
+
+## Hukum 2
+
+
+## Kalor Jenis
 ![[Pasted image 20220508160644.png]]
 
 > $$W =m(C_{p}-C_{v})\triangle T$$

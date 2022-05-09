@@ -27,7 +27,11 @@
 ## [[Gelombang dan Getaran]]
 - [[Gelombang dan Getaran#Getaran]]
 - [[Gelombang dan Getaran#Gelombang]]
+	- [[Gelombang dan Getaran#Gelombang Berjalan]]
 - [[Gerak Harmonik Sederhana]]
+	- [[Gerak Harmonik Sederhana#Frekuensi Angular]]
+	- [[Gerak Harmonik Sederhana#Periode]]
+	- [[Gerak Harmonik Sederhana#Frekuensi]]
 - [[Bunyi]]
 - [[Gaya Pegas]]
 ---
@@ -65,6 +69,11 @@
 - [[Induksi Elektromagnetik]]
 	- [[Gaya Gerak Listrik]]
 - [[Gaya Lorentz]]
+	- [[Gaya Lorentz#Pada Kawat Berarus]]
+	- [[Gaya Lorentz#Pada Muatan yang bergerak pada Medan Magnet]]
+	- [[Gaya Lorentz#Muatan yang bergerak Melingkar pada Medan Magnet]]
+	- [[Gaya Lorentz#Right Hand Rule]]
+	- 
 ---
 ## [[Listrik Bolak-Balik]]
 ---
