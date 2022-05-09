@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "309dcd6171c00867",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e3897423aa01f84",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fisika Klasik/Termodinamika.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d742a4da9472ac71",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfae816beb34435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecdb8aa8deb06dc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb101ebd0ed84ba7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25514f7a01cfaee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d455422a68be9ed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56b5e42fb84ec65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fisika Klasik/Termodinamika.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1e3897423aa01f84",
+  "lastOpenFiles": [
+    "Fisika Klasik/Termodinamika.md"
+  ]
+}
