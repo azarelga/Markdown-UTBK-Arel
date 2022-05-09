@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Termodinamika.md",
+            "file": "Fisika Modern/Relativitas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Termodinamika.md",
+                "file": "Fisika Modern/Relativitas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,11 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Fisika Modern/Relativitas.md",
+    "MOC Modern Physics.md",
+    "Fisika Modern/Efek Compton.md",
+    "Fisika Modern/Gelombang De Broglie.md",
+    "Fisika Klasik/Listrik Bolak-Balik.md",
     "Fisika Klasik/Termodinamika.md",
     "LaTex Symbols.md"
   ]
