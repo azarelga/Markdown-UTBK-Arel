@@ -25,6 +25,11 @@
 - **Hipotonis** : Larutan yang konsentrasinya rendah
 - **Adsorbsi** : Penyerapan zat ke dalam suatu benda (kea di ginjal)
 
+## Reproduksi Tumbuhan
+- **Inti Generatif** : Some kind of sperm of tumbuhan. See [[Pembelahan Sel#Gametogenesis]]
+
+## Hereditas
+- **Antigen** : Antibodi darah terhadap rhesus lawannya. 
 
 ## [[Metabolisme Tumbuhan]]
 - **Imbibisi** : Biji nyerep air dari luar buat perkecambahan

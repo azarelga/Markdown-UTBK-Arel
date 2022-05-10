@@ -1,7 +1,6 @@
 # [[Biodefinitions]]
 ---
 # [[Plantae]]
-
 ---
 # Anatomi
 - [[Epitel]]
@@ -12,7 +11,7 @@
 	- [[Pembelahan Sel#Mitosis 2n]]
 	- [[Pembelahan Sel#Meiosis n]]
 - [[DNA]]
-	- [[Basa Nitrogen]]
+	- [Basa Nitrogen](DNA#Basa Nitrogen)
 	- [[Nukleotida]]
 - [[Kromosom]]
 - [[Benang Spindel]]

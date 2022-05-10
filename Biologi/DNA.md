@@ -14,7 +14,7 @@
 	1. Satu [[Gugus Fosfat]]
 	2. Satu [[Gugus Pentosa]]
 	3. Satu [Basa Nitrogen](DNA#Basa Nitrogen)
-	
+
 ## Basa Nitrogen
 
 ![[Pasted image 20220510113657.png]]
