@@ -8,16 +8,22 @@
 	- **Protein non-Histon**, menggulung kromosom dan memperbaiki kromosom yang rusak
 - Kromosom terbentuk pada [[Pembelahan Sel#Profase]]
 	**Pita DNA** ->**Nukleosom** -> Solenoid -> **Kromatin** -> Kromonema -> **Kromosom**
-
+- Kromosom terletak pada setiap [[Nukleus]] sel suatu organisme 
 
 ## Struktur 
 
 ![[Pasted image 20220510121024.png]]
 1. **Sentromer**, bagian tengah kromosom. Tempat melekatnya lengan kromosom. Dia tu kaga ngandung kode gen sama sekali brader
+	![[Pasted image 20220510132146.png]]
 2. **Kinetokor**, bagian dari sentromer ni si satu anjing ni, dia tu tempat nempel si [[benang spindel]] pas lagi pembelahan sel
 3. **Telomer**, bagian kromosom palinggggggggggg ujung
 4. **Matriks**, sama kea matriks mitokondria gitu, dia ya isi dari kromosom gitu, kea membran plasma gitu lah cok
-5. **Kromonema**, tadi uda disebutin, dia tu tempat tinggalnya si kode gen (genom) terus dia ngandung **Kromomer**
+5. **Kromonema**, tadi uda disebutin, dia tu tempat tinggalnya si kode gen (genom) terus dia ngandung **Kromomer**. Biasa disebutin **Kromatid** ya sama aja. Dia tu kea salah satu garis dari suatu **Kromosom**
+	![[Pasted image 20220510132057.png]]	
+Keep in mind **1 Kromosom bukan berarti 2 Kromatid**
+	![[Pasted image 20220510132250.png]]
+Foto diatas tu terjadi pada saat [[Replikasi DNA]]
+
 6. **Kromomer**, struktur manik - manik tempat terdapatnya **Lokus** yang ada kode gen. Kromomer nih saling berhubungan terus dihubungin **Kromiol**
 7. **Satelit**, ujung kromosom yang bentuknya buletan gitu (kea usus buntu gitu anjg) gegara lekukan sekunder
 

@@ -1,4 +1,23 @@
 # Please Kindly Check [[MOC Biologi]] thank you sir
+## Prefix
+- **Pro-** : Sebelum
+- **Telo-** : Akhir
+- **Ana-** : Tidak ada
+- **Dis-** : Kelainan/Penyimpangan
+- **Hiper-** : Kelebihan
+- **Hipo-** : Kekurangan
+- **Meta-** : Perubahan Bentuk
+
+## Suffix
+- **-itis** : Peradangan
+- **-coma** : Tumor/Kanker
+- **-osis** : Tidak selalu patologis/mengenai penyakit
+- **-penia** : Tidak ada
+- **-sitosis** : Peningkatan di atas normal
+- **-ektasis** : Pembesaran/pelebaran
+- **-plasia** : Kelainan pertumbuhan
+- **-opati** : Bentuk abnormal yang sifat sebelumnya ilang
+
 ## Metabolisme Sel
 - **Plasmolisis** : Lepasnya plasma dari dinding sel karena larutan hipertonis
 - **Hipertonis** : Larutan yang konsentrasinya tinggi

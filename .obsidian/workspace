@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 183.5036334991455,
     "collapsed": true
   },
   "right": {
@@ -94,20 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
     "Biologi/Pembelahan Sel.md",
-    "Biologi/RNA.md",
-    "Biologi/DNA.md",
-    "Biologi/Biodefinitions.md",
-    "Biologi/Sintesis Protein.md",
-    "Biologi/Gen.md",
     "Biologi/Kromosom.md",
-    "Biologi/Benang Spindel.md",
+    "Biologi/Biochemistry.md",
+    "Biologi/Biodefinitions.md",
+    "Biologi/Sel.md",
+    "Fisika Klasik/Gerak Melingkar Vertikal.md",
+    "MOC Fisika Klasik.md",
+    "MOC Kimia.md",
     "MOC Biologi.md",
-    "Biologi/Nukleotida.md"
+    "Biologi/Metabolisme Tumbuhan.md"
   ]
 }

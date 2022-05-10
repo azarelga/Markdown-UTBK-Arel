@@ -1,4 +1,4 @@
-# Notes
+****# Notes
 ## Foreground
 ![[Pasted image 20220510123649.png]]
 - Gua tebak lo pasti dari kromosom, karena ya selamat lo masih jauh dari selesai.

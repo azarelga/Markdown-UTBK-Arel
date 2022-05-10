@@ -37,6 +37,7 @@ Physics are soooo fucking dumb to explain why some elements react weirdly when i
 ## [[Kimia Organik]]
 - [[Kimia Organik#Cheatsheet]]
 - [[Reaksi Kimia Organik]]
+- [[Biochemistry]]
 ---
 ## [[Koligatif]]
 - [[Titik Didih]]
