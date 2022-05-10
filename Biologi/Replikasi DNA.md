@@ -38,7 +38,7 @@
 1. *Helikase* ngeunzip DNA dan membagi DNA jadi dua, **Leading Strand** (3' to 5') dan **Lagging Strand** (5' to 3')
 ![[Pasted image 20220510151308.png]]
 
-2. *Primase* ngelepasin *primer*, sehingga *DNA Polimerase* mulai bekerja. *DNA Polimerase* bakal ngebentuk strand baru di masing masing **Lagging Strand** dan **Leading Strand**, tapi arahnya bakal berlawan arah masing masing strandnya
+2. *Primase* ngelepasin *primer*, sehingga *DNA Polimerase* mulai bekerja. *DNA Polimerase* bakal ngebentuk strand baru di masing masing **Lagging Strand** dan **Leading Strand**, tapi arahnya bakal berlawan arah masing masing strandnya. Selain itu, DNA nya nanti bakal dilurusin sama *topoisomerase*
 	![[Pasted image 20220510151509.png]]
 
 3. Karena *DNA Polimerase* pada **Lagging Strand** tu berlawanan arah sama unzippingnya si *Helikase*, maka dia bakal berlomba lomba sama *Primase* nya. *DNA Polimerase*nya belom selesai buat strand baru, eh malah dimulai di titik yang beda sama si *Primase* nya. 
@@ -52,3 +52,15 @@
 5. JADI DEHHH DNA BARUNYAA!!! DNA barunya disebut dengan **Semikonservatif**
 ![[Pasted image 20220510151953.png]]
 
+## Hasil
+Hasil dari Replikasi DNA dapat bervariatif, seperti
+1. Model **Konservatif**
+	Dimana model DNA akan menghasilkan DNA yang **BARU secara utuh**
+	![[Pasted image 20220510194429.png]]
+2. Model **Dispersif**
+	DNA induk menjadi rantai yang terputus-putus, masing-masing rantai membentuk DNA baru
+![[Pasted image 20220510194519.png]]
+
+3. Model **Semikonservatif**
+	DNA induk menjadi dua buah rantai, masingmasing rantai membentuk DNA baru. Model ini yang sering diakui pada teori replikasi DNA
+	![[Pasted image 20220510194556.png]]
