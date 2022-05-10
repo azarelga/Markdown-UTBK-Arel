@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologi/Replikasi DNA.md",
+            "file": "Biologi/Sintesis Protein.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 183.5036334991455,
-    "collapsed": true
+    "width": 183.5036334991455
   },
   "right": {
     "id": "25514f7a01cfaee7",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologi/Replikasi DNA.md",
+                "file": "Biologi/Sintesis Protein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +98,8 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Biologi/Sintesis Protein.md",
+    "Biologi/Sel.md",
     "Biologi/Replikasi DNA.md",
     "Biologi/Replikasi.md",
     "Biologi/DNA.md",
@@ -106,8 +107,6 @@
     "Biologi/Basa Nitrogen.md",
     "Biologi/Nukleotida.md",
     "Biologi/Biodefinitions.md",
-    "Biologi/Pembelahan Sel.md",
-    "Biologi/Sintesis Protein.md",
-    "Biologi/Metabolisme Tumbuhan.md"
+    "Biologi/Pembelahan Sel.md"
   ]
 }

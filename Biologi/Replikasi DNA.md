@@ -32,13 +32,15 @@
   ![[Pasted image 20220510145427.png]]
 - Yang nempelin fragmen terputus putus pada *lagging strands* 
 
+### **Topoisomerase**
+- Meluruskan DNA yang telah direplikasi
 
 
 ## Tahap
-1. *Helikase* ngeunzip DNA dan membagi DNA jadi dua, **Leading Strand** (3' to 5') dan **Lagging Strand** (5' to 3')
+1. *Helikase* ngeunzip DNA atau memutus ikatan hidrogen DNA dan membagi DNA jadi dua, **Leading Strand** (3' to 5') dan **Lagging Strand** (5' to 3').
 ![[Pasted image 20220510151308.png]]
 
-2. *Primase* ngelepasin *primer*, sehingga *DNA Polimerase* mulai bekerja. *DNA Polimerase* bakal ngebentuk strand baru di masing masing **Lagging Strand** dan **Leading Strand**, tapi arahnya bakal berlawan arah masing masing strandnya. Selain itu, DNA nya nanti bakal dilurusin sama *topoisomerase*
+2. *Primase* ngelepasin *primer*, sehingga *DNA Polimerase* mulai bekerja. *DNA Polimerase* bakal ngebentuk strand baru di masing masing **Lagging Strand** dan **Leading Strand**, tapi arahnya bakal berlawan arah masing masing strandnya. Habis direplikasi, DNA nya nanti bakal dilurusin sama *topoisomerase*
 	![[Pasted image 20220510151509.png]]
 
 3. Karena *DNA Polimerase* pada **Lagging Strand** tu berlawanan arah sama unzippingnya si *Helikase*, maka dia bakal berlomba lomba sama *Primase* nya. *DNA Polimerase*nya belom selesai buat strand baru, eh malah dimulai di titik yang beda sama si *Primase* nya. 
@@ -64,3 +66,5 @@ Hasil dari Replikasi DNA dapat bervariatif, seperti
 3. Model **Semikonservatif**
 	DNA induk menjadi dua buah rantai, masingmasing rantai membentuk DNA baru. Model ini yang sering diakui pada teori replikasi DNA
 	![[Pasted image 20220510194556.png]]
+
+Setelah Replikasi DNA, terbitlah [[Sintesis Protein]]
