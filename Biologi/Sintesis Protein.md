@@ -1,6 +1,6 @@
 # Notes
 ## Foreground
-
+![[Pasted image 20220510234422.png]]
 - Sintesis Protein berguna untuk membentuk [[Asam Amino]] melalui kode gen yang dibuat [[DNA]]
 
 ## Enzim

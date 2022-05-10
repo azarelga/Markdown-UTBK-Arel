@@ -6,7 +6,7 @@
 	- Nukleus (Eukariot)
 	- Nukleolus (Prokariot)
 - Replikasi terjadi saat sebelum [[Pembelahan Sel]] dan pada saat Interfase
-- Replikasi DNA dilakukan oleh [[enzim]]
+- Replikasi DNA dilakukan oleh [[Enzim]]
 - **Leading Strand** : Tempat Replikasi DNA sesungguhnya terjadi, rantainya berarah 3' ke 5' (**DIATAS**)
 - **Lagging Strand** : Tempat DNA dimana dia tu diskontinu, jalannya berarah 5' ke 3' (**DIBAWAH**)
 

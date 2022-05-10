@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologi/Hereditas.md",
+            "file": "Biologi/Sintesis Protein.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologi/Hereditas.md",
+                "file": "Biologi/Sintesis Protein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Biologi/Hereditas.md",
-    "Biologi/Biodefinitions.md",
-    "MOC Biologi.md",
-    "Biologi/DNA.md",
-    "Biologi/Nukleotida.md",
-    "Biologi/Pembelahan Sel.md",
     "Biologi/Sintesis Protein.md",
-    "Biologi/Sel.md",
+    "Biologi/Enzim.md",
     "Biologi/Replikasi DNA.md",
-    "Biologi/Replikasi.md"
+    "Biologi/Plantae.md",
+    "Biologi/Kromosom.md",
+    "Biologi/Metabolisme Tumbuhan.md",
+    "Biologi/Nukleotida.md",
+    "Biologi/RNA.md",
+    "Biologi/Hereditas.md",
+    "Biologi/Biodefinitions.md"
   ]
 }
