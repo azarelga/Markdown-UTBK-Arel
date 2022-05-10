@@ -4,7 +4,7 @@
 	- $X^{B}Y$  Cowo Normal
 ![[Pasted image 20220510223919.png]]
 - Penyakit kelamin bersifat resesif
-- 
+- Buta Warna, Hemofilia
 
 ## Golongan Darah
 - Operasinya yangIAIOIAIO :
