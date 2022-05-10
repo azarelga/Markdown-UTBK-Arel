@@ -2,6 +2,9 @@
 ---
 # Genetika
 - [[Pembelahan Sel]]
+- [[DNA]]
+	- [[Basa Nitrogen]]
+- [[Kromosom]]
 ---
 # [[Metabolisme Tumbuhan]]
 - [[Katabolisme]]

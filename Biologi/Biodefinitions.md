@@ -1,3 +1,4 @@
+# Please Kindly Check [[MOC Biologi]] thank you sir
 ## Metabolisme Sel
 - **Plasmolisis** : Lepasnya plasma dari dinding sel karena larutan hipertonis
 - **Hipertonis** : Larutan yang konsentrasinya tinggi
@@ -16,4 +17,9 @@
 ## Genetika
 - **Epistasis** : Gen yang mempengaruhi 
 - **Hipostasis** : Gen yang dipengaruhi 
+- **Kromatid** : Salah satu dari dua lengan hasil replikasi kromosom. Biasanya disebut Kromonema, read [[Kromosom#Struktur]]
 - **Crossing Over** : Peristiwa pertukaran gen - gen suatu kromatid dengan gen kromatid homolognya
+- **Purin** : Basa Nitrogen cincin ganda (Adenin dan Guanin)
+- **Pirimidin** : Basa Nitrogen cincin tunggal (Cytosin dan Timin)
+- **Kromosom Homolog** : Pasangan kromosom yang punya struktur, bentuk, macam, posisi lokus dan jenis gen yang sama
+- **Alel** : [[Gen]] dari kromosom homolog yang terletak pada lokus yang bersesuaian
