@@ -17,6 +17,7 @@
 - **-ektasis** : Pembesaran/pelebaran
 - **-plasia** : Kelainan pertumbuhan
 - **-opati** : Bentuk abnormal yang sifat sebelumnya ilang
+- **-ase** : Enzim, pemecah substansi
 
 ## Metabolisme Sel
 - **Plasmolisis** : Lepasnya plasma dari dinding sel karena larutan hipertonis
@@ -42,3 +43,5 @@
 - **Pirimidin** : Basa Nitrogen cincin tunggal (Cytosin dan Timin)
 - **Kromosom Homolog** : Pasangan kromosom yang punya struktur, bentuk, macam, posisi lokus dan jenis gen yang sama
 - **Alel** : [[Gen]] dari kromosom homolog yang terletak pada lokus yang bersesuaian
+- **Sel Haploid** : Kromosom yang memiliki 1 kromatid
+- **Sel Diploid** : Kromosom yang memiliki 2 kromatid
