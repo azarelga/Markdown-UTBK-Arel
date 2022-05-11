@@ -14,7 +14,7 @@ maka, rumus **kesetimbangan konsentrasinya** adalah
 # Kesetimbangan Tekanan
 Diketahui sebuah reaksi $$pA + qB \leftrightarrow rC + sD$$
 maka, rumus **kesetimbangan tekanannya** adalah
-> $$K_{p}= \frac{(P_{C})^{r}(P_{D})^{s}}{{{(P_{A})^{p}(P_{B})^{q}}}}$$
+> $$K_{p}= \frac{(P_{C})^{r}(P_{D})^{s}}{(P_{A})^{p}(P_{B})^{q}}$$
 > $(P_{X})$ = Tekanan Parsial Gas
 
 
