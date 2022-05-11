@@ -4,7 +4,7 @@ Perkenalin gua arel, disini gua bakal kasih beberapa catetan gua selama belajar 
 
 Lo bisa langsung cek MOC - MOC yang gua taro di bawah, kurleb dia kayak table of contents gitu halamannya.
 
-- [[MOC Biologi]]
+- [MOC Biologi](/MOC%20Biologi)
 - [[MOC Fisika Klasik]]
 - [[MOC Fisika Modern]]
 - [[MOC Kimia]]
