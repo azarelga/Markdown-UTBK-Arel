@@ -1,4 +1,4 @@
-# [[Biodefinitions]]
+# [Biodefinitions](/Biologi/Biodefinitions)
 ---
 # [[Plantae]]
 ---

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "Biologi/Biodefinitions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "Biologi/Biodefinitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "421948417e154751",
   "lastOpenFiles": [
+    "Biologi/Biodefinitions.md",
+    "Biologi/Lumut.md",
+    "Biologi/Paku.md",
+    "Biologi/Makroplantae.md",
+    "Biologi/Plantae.md",
+    "Biologi/Metabolisme Tumbuhan.md",
+    "MOC Biologi.md",
     "about.md",
     "Kimia/Asam dan Basa.md",
-    "Fisika Klasik/Listrik Dinamis.md",
-    "Fisika Klasik/Energi Listrik.md",
-    "Fisika Klasik/Termodinamika.md",
-    "Fisika Klasik/Gerak Harmonik Sederhana.md",
-    "MOC Fisika Klasik.md",
-    "Fisika Klasik/Gerak Melingkar Vertikal.md",
-    "Fisika Klasik/Gelombang dan Getaran.md",
-    "Fisika Klasik/Gaya Pegas.md"
+    "Fisika Klasik/Listrik Dinamis.md"
   ]
 }
