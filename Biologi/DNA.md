@@ -26,14 +26,17 @@
 Hafalinnnya **AGTC AGTC AGTC AGTC AGTC AGTC** AG Purin TC Pirimidin
 
 - Lu bisa liat sendiri dari foto yang paling atas, si Adenin sama Guaninnya kea punya dua sisi yang sama, ga kea Timin sama Cytosin
+
 - Basa Nitrogen tu pasti punya pasangan masing - masing, 
 	- Adenin sama Timin (Ikatan Rangkap Dua)
 	- Cytosin sama Guanin (Ikatan Rangkap Tiga)
-Ikatan tersebut disebut dengan **Ikatan Hidrogen**
+	Ikatan tersebut disebut dengan **Ikatan Hidrogen**
+
 - Basa Nitrogen merupakan bagian dari [[DNA]] yang digunakan sebagai penyimpan kode gen melalui kombinasi susunan tertentu
 
 ## Arah DNA
 Ada 2 kemungkinan dari 2 Arah DNA, yaitu :
 1. 3' Ke 5' (Upstream, Membaca)
 2. 5' Ke 3'  (Downstream, Menulis)
-##### Bacanya 3 prime to 5 prime atau 5 prime to 3 prime!
+
+> Bacanya 3 prime to 5 prime atau 5 prime to 3 prime!

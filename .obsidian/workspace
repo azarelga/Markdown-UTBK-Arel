@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kimia/Kesetimbangan.md",
+            "file": "Biologi/DNA.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kimia/Kesetimbangan.md",
+                "file": "Biologi/DNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Biologi/DNA.md",
+    "MOC Biologi.md",
+    "about.md",
     "Kimia/Kesetimbangan.md",
     "Biologi/Sintesis Protein.md",
     "Biologi/Enzim.md",
     "Biologi/Replikasi DNA.md",
     "Biologi/Plantae.md",
     "Biologi/Kromosom.md",
-    "Biologi/Metabolisme Tumbuhan.md",
-    "Biologi/Nukleotida.md",
-    "Biologi/RNA.md",
-    "Biologi/Hereditas.md"
+    "Biologi/Metabolisme Tumbuhan.md"
   ]
 }
