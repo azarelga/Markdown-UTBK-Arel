@@ -32,6 +32,7 @@
 - **Monoesis** : Sperma dan ovum pada satu bunga yang sama
 - **Diesis** : Sperma dan ovum pada dua bunga yang berbeda
 - **Talus** : Batang semu, batang tapi belom batang
+- **Strobilus** : Tempat buat nyimpen sporangium biar sporanya bisa nyebar lebih efektif
 
 ## Reproduksi Tumbuhan
 - **Inti Generatif** : Some kind of sperm of tumbuhan. See [[Pembelahan Sel#Gametogenesis]]

@@ -23,10 +23,10 @@
 
 #### Contoh
 1. *Psilotum nodum*
-	![[Pasted image 20220511171214.png]]
+	![[Pasted image 20220511171214.png|300]]
 
 2. *Rhynia major*
-![[Pasted image 20220511171236.png]] 
+![[Pasted image 20220511171236.png|300]] 
 
 
 ### **Equisetinae** (Paku Ekor Kuda)
@@ -38,12 +38,13 @@
 
 #### Contoh
 1. *Equisetum debile*
-![[Pasted image 20220511171425.png]]
+![[Pasted image 20220511171425.png|300]]
 
 2. *Rhynia elegans*
 	![[Pasted image 20220511171526.png]]
 
 ### **Filicinae** (Paku Sejati)
+- 
 
 
 ## Reproduksi Seksual

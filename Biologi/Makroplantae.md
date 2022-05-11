@@ -27,9 +27,9 @@ Tumbuhan dibagi menjadi 2 jenis, yaitu **Berpembuluh** dan **Tidak Berpembuluh**
 - [[Lumut]]
 
 ### **Berpembuluh** (Tracheophyta)
-- [Tumbuhan Berbiji](Makroplantae#Tumbuhan Berbiji)
+- [[Spermatophyta]]
 - [[Paku]]
 
-## Tumbuhan Berbiji
+
 
 ## Jaringan Tumbuhan
