@@ -8,9 +8,9 @@
 ## Respirasi Aerob
 Menggunakan Oksigen
 1. **[[Glikolisis]]**
-2. **Dekarboksilasi (Pembentukan Asetil CoA)**
+2. **[[Dekarboksilasi ]](Pembentukan Asetil CoA)**
 3. **Siklus Krebs (Pembentukan FADH)**
-4. **Transfer Elektron (Farming ATP) ** 
+4. **Transfer Elektron (Farming ATP)** 
 
 
 ## Respirasi Anaerob

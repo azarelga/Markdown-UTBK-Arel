@@ -33,6 +33,7 @@
 - **Diesis** : Sperma dan ovum pada dua bunga yang berbeda
 - **Talus** : Batang semu, batang tapi belom batang
 - **Strobilus** : Tempat buat nyimpen sporangium biar sporanya bisa nyebar lebih efektif
+- **Mesofil** : Daging nya daun
 
 ## Reproduksi Tumbuhan
 - **Inti Generatif** : Some kind of sperm of tumbuhan. See [[Pembelahan Sel#Gametogenesis]]
@@ -49,6 +50,7 @@
 - **Fotosistem** : Suatu protein yang terdapat pada membran tilakoid yang mengandung kumpulan pigmen fotosintetik dan senyawa organik di dalamnya. Tugas si anjing fotosistem ini nih buat ngumpulin cahaya (cek [[Anabolisme#Reaksi Terang Fotosintesis]]). 
 - **Osmosis** : Masuknya cairan melalui suatu membran yang semipermeable
 - **Difusi** : Perpindahan dari cairan dengan konsentrasi tinggi ke konsentrasi rendah
+- **Malat** : Senyawa berkarbon 4
 
 ## Genetika
 - **Epistasis** : Gen yang mempengaruhi 

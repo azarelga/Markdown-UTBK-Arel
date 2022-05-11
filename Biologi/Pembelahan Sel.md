@@ -57,7 +57,7 @@
 - **Sitokinesis** (Pembelahan *Sel*) itu selnya udah kebagi 2.
 - Hasilnya adalah **46 kromosom** pada masing masing sel yang udah kebagi
 
-#### INgat!
+#### Ingat!
 - 1 Kromosom diitung sesuai dengan sentromernya
 - 1 Kromatid diitung sesuai banyak kromatidnya itu sendiri
 ---

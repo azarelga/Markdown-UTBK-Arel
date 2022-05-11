@@ -18,7 +18,7 @@ V = Beda Potensial (Volt)
 C = Kapasitansi (Faraday)
 $\mathcal{E}_{0}$ = Permitivitas Ruang Vakum (Faraday / meter)
 $A$ = Luas Keping ($m^{2}$)
-d = Jarak pisah antareping
+d = Jarak pisah antarkeping
 k = 9 x 10^9 
 
 > hafalinnya CEKAD
