@@ -8,9 +8,23 @@
 
 
 ## Hukum 1
-> $$$$
+>**Setiap proses apabila kalor (Q) diberikan kepada sistem dan sistem melakukan usaha (W), maka akan terjadi perubahan energi dalam** ( $\triangle U$)
+
+
+> $$Q = \triangle U + W$$
+
+![[Pasted image 20220509142723.png]]
 
 ## Hukum 2
+Hukum 2 Termodinamika adalah implementasi dari **Mesin Karnot**
+
+>**Tidak mungkin untuk membuat sebuah mesin kalor yang bekerja dalam suatu siklus yang semata-mata mengubah energi panas yang diperoleh dari suatu reservoir pada suhu tertentu seluruhnya menjadi usaha mekanik**
+
+![[Pasted image 20220509143023.png]]
+
+### Mesin Karnot
+Rumus dari Mesin Karnot ialah
+ >$$\eta = (1-\frac{Q_C}{Q_{H}})\times 100 \% $$
 
 
 ## Kalor Jenis

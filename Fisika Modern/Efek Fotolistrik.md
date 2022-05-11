@@ -18,6 +18,8 @@ Sehingga,
 $E_{k} = qV$
 Karena muatan elektron, maka
 $E_{K}= eV$
->$$E_{K}= eV_{0}$$
->e = Muatan Elektron (1,6 x 10^-19)
+>$$\frac{1}{2}mv^{2}= eV_{0}$$
+>$e$ = Muatan Elektron (1,6 x 10^-19)
 >$V_0$ = Potensial Penghenti (volt)
+>
+

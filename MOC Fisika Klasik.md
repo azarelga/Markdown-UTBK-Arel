@@ -10,6 +10,7 @@
 - [[Gerak Rotasi]]
 - [[Gaya Sentripetal]]
 - [[Gerak Harmonik Sederhana]]
+- [[Gerak Melingkar Vertikal]]
 - [[Mechanical Notes]]
 ---
 ## [[Termodinamika]]
