@@ -94,12 +94,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.98524475097656,
-    "collapsed": true
+    "width": 240.98524475097656
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
     "Biologi/Anabolisme.md",
+    "Biologi/Untitled.md",
     "Biologi/Biodefinitions.md",
     "MOC Biologi.md",
     "Biologi/Katabolisme.md",
@@ -107,7 +107,6 @@
     "Biologi/Dekarboksilasi.md",
     "Biologi/Glikolisis.md",
     "LaTex Symbols.md",
-    "about.md",
-    "conflict-files-obsidian-git.md"
+    "about.md"
   ]
 }

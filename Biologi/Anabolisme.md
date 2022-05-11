@@ -19,22 +19,53 @@ Terjadi pada **Tilakoid**, yang terdapat pada **Grana**(kumpulan tilakoid), yang
 
 
 ### → Proses
-#### <mark style="background: #BBFABBA6;">Aliran Elektron</mark>
+#### <mark style="background: #BBFABBA6;">Fotofosforilasi Non Siklik</mark> 
+##### Aliran Elektron
 ![[Pasted image 20220511214400.png]]
 1. Pertama, *foton* akan masuk ke dalam **Fotosistem II**. 
-2. Kemudian *elektron* yang ada di dalam **Fotosistem II** akan kaget dan akan mengalir sesuai **Rantai Transpor Elektron** nya
+2. Kemudian *elektron* yang ada di dalam **Fotosistem II** akan kaget dan akan mengalir sesuai **Rantai Transpor Elektron** nya. Peristiwa ini disebut dengan ***Fotoeksitasi*** 
 
 ![[Pasted image 20220511214510.png]]
 
-#### <mark style="background: #BBFABBA6;">Fotolisis Air</mark> 
+##### Fotolisis Air
 ![[Pasted image 20220511214800.png|190]]
-1. Untuk menggantikan *elektron* yang bye bye dari **Fotosistem II**, akan terjadi pemecahan air yang akan menghasilkan
+3. Untuk menggantikan *elektron* yang bye bye dari **Fotosistem II**, akan terjadi pemecahan air yang akan menghasilkan
 $$H_{2}O \rightarrow 2H^{+}+ \frac{1}{2} O_{2}+2e^-$$
 	2 *elektron*nya itu bakal ditaro di dalem **Fotosistem II**
-2. Selain 2 elektron yang kepake, **2H+** nya bakal kepake nanti tinggal tungguin aja~
+4. Selain 2 elektron yang kepake, **2H+** nya bakal kepake nanti tinggal tungguin aja~
 
-#### <mark style="background: #BBFABBA6;">Fotofosforilasi Non Siklik</mark> 
+##### Aliran Elektron continues
+5. Eh langsung kepake deh, Aliran elektron dari **Fotosistem II** ke **Fotosistem I** bakal ngepancing **H+** dari luar untuk masuk ke dalam **Tilakoid** sehingga bakal terkumpul di dalem **ruang tilakoid**nya. Kejadian ini disebut dengan ***Kemiosmosis***
 
+> **Kemiosmosis** : Perpindahan ion H+ dari konsentrasi tinggi ke rendah
+
+![[Pasted image 20220511224629.png]]
+
+6. Ion **H+** tadi bakal terkumpul di **ruang Tilakoid** dan akan dialirkan kepada **ATP Sintase**. Disana, H+ bakal digunakan oleh ATP Sintase untuk menambahkan **Fosfat** ke **ADP** sehingga menghasilkan **ATP**
+
+![[Pasted image 20220511224858.png]]
+
+
+7. TERUSSS LO INGET GA TADI ADA ELEKTRON YANG DIPINDAHIN KE **FOTOSISTEM I** ?????? yak itu bakal mirip sprti di **Fotosistem II**, dimana **Fotosistem I** bakal nerima cahaya dan *elektron* di dalamnya bakal terpental - pental dan melanjutkan alirannya
+
+![[Pasted image 20220511225450.png]]
+
+8. Setelah *elektron* terpental keluar dari **Tilakoid**, *elektron* itu bakal reaksi dengan **NADP+** dan **H+** sehingga menghasilkan **NADPH**  
+
+![[Pasted image 20220511225626.png]]
+
+
+
+##### Simpulan
+**Input :**
+- H2O menjadi H+
+- Elektron
+- Cahaya matahari
+- ADP
+
+**Output :**
+- NADPH
+- ATP
 
 #### <mark style="background: #BBFABBA6;">Fotofosforilasi Siklik</mark> 
 
@@ -102,6 +133,8 @@ Terjadi kalo misalnya silau bangett (sinarnya kebanyakan). Kalo misalnya sinarny
 
 **Output**
 G3P (untuk buat glukosa)
+
+
 
 
 
