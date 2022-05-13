@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologi/Anabolisme.md",
+            "file": "MOC Modern Physics.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.0036334991455,
-    "collapsed": true
+    "width": 312.0036334991455
   },
   "right": {
     "id": "25514f7a01cfaee7",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologi/Anabolisme.md",
+                "file": "MOC Modern Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Biologi/Anabolisme.md",
+    "MOC Modern Physics.md",
+    "MOC Fisika Klasik.md",
+    "Fisika Klasik/Gaya Listrik.md",
+    "MOC Fisika Modern.md",
     "Biologi/Untitled.md",
-    "Biologi/Biodefinitions.md",
+    "MOC Kimia.md",
     "MOC Biologi.md",
-    "Biologi/Katabolisme.md",
-    "Biologi/Replikasi DNA.md",
-    "Biologi/Dekarboksilasi.md",
-    "Biologi/Glikolisis.md",
-    "LaTex Symbols.md",
-    "about.md"
+    "Fisika Klasik/Gaya Sentripetal.md",
+    "Fisika Klasik/Gaya Lorentz.md",
+    "Biologi/Biodefinitions.md"
   ]
 }

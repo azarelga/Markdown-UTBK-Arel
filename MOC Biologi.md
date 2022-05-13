@@ -22,6 +22,7 @@
 - [[Replikasi DNA]]
 - [[Sintesis Protein]]
 - [[RNA]]
+- [[Hereditas]]
 ---
 # [[Metabolisme Tumbuhan]]
 - [[Katabolisme]]

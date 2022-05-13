@@ -13,9 +13,9 @@ Reaksi yang dimulai dari **H2O** dan **Cahaya Matahari** untuk menghasilkan **AT
 Terjadi pada **Tilakoid**, yang terdapat pada **Grana**(kumpulan tilakoid), yang terdapat pada **Kloroplas**, yang terdapat pada **Klorofil**
 
 ### → Players
-- **Fotosistem II**  : Menangkap **foton** dari cahaya, 2 karena dia telat di discovernya.  Di dalamnya ada simpenan **elektron** (berasal dari pemecahan air) yang nantinya bakal bereaksi apabila fotosistem nerima **foton**. 
+- **Fotosistem II (680)**  : Menangkap **foton** dari cahaya, 2 karena dia telat di discovernya.  Di dalamnya ada simpenan **elektron** (berasal dari pemecahan air) yang nantinya bakal bereaksi apabila fotosistem nerima **foton**. 
 - **Akseptor Elektron** : Menerima **elektron** dari **Fotosistem II**. 
-- **Fotosistem I** : 
+- **Fotosistem I (700)** : Untuk membantu reaksi pembentukan **NADPH**
 
 
 ### → Proses
@@ -68,7 +68,7 @@ $$H_{2}O \rightarrow 2H^{+}+ \frac{1}{2} O_{2}+2e^-$$
 - ATP
 
 #### <mark style="background: #BBFABBA6;">Fotofosforilasi Siklik</mark> 
-
+Terjadi pada **Fotosistem II**
 
 ## Reaksi Gelap 
 Reaksi yang dimulai dari **CO2** dan **RuBP** yang akan menghasilkan **Gula (Gliseraldehid 3-fosfat atau G3P)** 

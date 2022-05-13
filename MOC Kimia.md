@@ -17,6 +17,7 @@ Physics are soooo fucking dumb to explain why some elements react weirdly when i
 - [[PBO]]
 ---
 ## [[Asam dan Basa]]
+- [[Titrasi]]
 ---
 ## Termokimia
 - [[Entalpi]]
