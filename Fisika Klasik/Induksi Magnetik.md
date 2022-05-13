@@ -67,6 +67,6 @@ Rumus dari Medan Magnet adalah :
 ## Medan Magnet pada Partikel
 
 > $$B = \frac{E}{v}$$
-> E = Medan Listrik
-> v = Kecepatan Partikel
+> $E$ = Medan Listrik
+> $v$ = Kecepatan Partikel
 

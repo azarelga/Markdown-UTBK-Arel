@@ -14,3 +14,6 @@ Sehingga rumus tersebut dapat disesuaikan vektornya menjadi :
 > $\triangle x$ = Perubahan Panjang 
 
 Konstanta Pegas didapatkan dari perpaduan antara Modulus Elastisitas dan Gaya, Bisa dicek di [[Elastisitas]]
+
+## Kekekalan Energi Pegas
+![[Pasted image 20220513183823.png]]
