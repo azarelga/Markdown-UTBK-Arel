@@ -10,4 +10,11 @@
 > - Arus pada lampu sama rangkaian selalu sama ($I_{rangkaian}=I_{lampu}$) 
 > - **Daya Disipasi** pada R1 = **Daya yang hilang** pada R1
 >  $$P_{in}=P_{out}-P_{disipasi}$$
->
+
+Selain itu, kita bisa menghitung total dari $P$ kayak ngitung kapasitor (kebalikannya rangkaian resistor)
+
+### Paralel
+$$P_{total}=P_{1}+P_2$$
+
+### Seri
+$$P_{total}= \frac{P_{1}.P_{2}}{P_{1}+P_2}$$
