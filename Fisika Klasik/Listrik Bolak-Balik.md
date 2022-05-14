@@ -1,5 +1,7 @@
 # Definisi
 ## Tegangan dan Arus AC
+
+### Tegangan
 Listrik AC dihasilkan oleh [[Induksi Elektromagnetik]]. Selain itu, voltase di AC antara lain :
 >$$V_{t}=V_{max}sin(ωt+\theta_{0})$$
 >$V_{t}$ = Volt yang ditanya
@@ -7,6 +9,14 @@ Listrik AC dihasilkan oleh [[Induksi Elektromagnetik]]. Selain itu, voltase di A
 >$\theta_{0}$ = Sudut Awal (biasanya 0 kalo ga diketahui)
 >$V_{max}$ = Tegangan Maximum (220 Volt di Indonesia)
 
+Namun, tegangan pada rangkaian AC memiliki sifat
+>$$V_{R} =IR$$
+>$$V_C=I.X_C$$
+>$$V_L=I.X_{L}$$
+
+Sehingga tegangan pada setiap RLC tu beda beda
+
+### Arus
 Kemudian, arus di AC adalah :
 >$$I = I_{max}.sin(ωt + \theta_{0})$$
 >$I_{t}$ = Arus yang ditanya
@@ -14,6 +24,8 @@ Kemudian, arus di AC adalah :
 
 > - Arus pada setiap rangkaian seri itu pasti sama semua 
 
+Arus di AC memiliki sifat sebagai berikut
+> $$I_R=I_L=I_C=I$$
 
 ![[Pasted image 20220428163005.png]]
 
@@ -52,4 +64,18 @@ Untuk mencari Impedansi apabila pada suatu rangkaian hanya ada
 
 
 ## Frekuensi
-Frekuensi bisa dicari kalo misalnya $x_{L}= x_{C}$
+Frekuensi bisa dicari kalo misalnya sesuatu yang disebut dengan **Resonansi** terjadi
+
+Kenapa **Resonansi** terjadi?
+- Arus Maksimum juga terjadi
+-  $X_{L}= X_{c}$
+
+Dari rumus $X_L=X_C$ kita dapat sederhanakan sehingga
+$X_{L}= X_{C}$
+$w.L = \frac{1}{w.C}$
+$w^{2}=\frac{1}{LC}$
+$w = \sqrt{\frac{1}{LC}}$
+
+Karena kita ketahui dari rumus [[Gerak Harmonik Sederhana#Frekuensi]] bahwa $w = 2\pi f$
+ $2 \pi f = \frac{1}{\sqrt{LC}}$
+> $$f = \frac{1}{2\pi \sqrt{LC}}$$
