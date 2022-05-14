@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Induksi Magnetik.md",
+            "file": "Fisika Klasik/Induktor.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lenz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.0036334991455,
-    "collapsed": true
+    "width": 312.0036334991455
   },
   "right": {
     "id": "25514f7a01cfaee7",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Induksi Magnetik.md",
+                "file": "Fisika Klasik/Induktor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,10 +93,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.98524475097656
+    "width": 240.98524475097656,
+    "collapsed": true
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Fisika Klasik/Induktor.md",
+    "Fisika Klasik/Hukum Henry.md",
     "Fisika Klasik/Induksi Magnetik.md",
     "Fisika Klasik/Induksi Elektromagnetik.md",
     "Fisika Klasik/Gaya Pegas.md",
@@ -105,8 +107,6 @@
     "MOC Modern Physics.md",
     "Fisika Klasik/Gaya Listrik.md",
     "MOC Fisika Modern.md",
-    "Biologi/Untitled.md",
-    "MOC Kimia.md",
-    "MOC Biologi.md"
+    "Biologi/Untitled.md"
   ]
 }
