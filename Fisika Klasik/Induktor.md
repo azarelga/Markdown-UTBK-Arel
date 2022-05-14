@@ -4,6 +4,8 @@
 # Rumus
 ## Hukum Lenz
 
+Rumus ini kalo lo bayangin, **Tegangan listrik pada kumparan bakal muncul apabila lo deketin magnet ke kumparan tersebut**. Besar kecilnya tegangan itu **dipengaruhi oleh kecepatan lo saat ngedeketin magnet ini**. Itulah **Hukum Lenz** in a nutshell 
+
 > $$\varepsilon = - N\frac{d\phi}{dt}$$
 > $\phi$ = $\int \vec{B} . d\vec{A}$  = [[Fluks Magnet]]
 > N = Jumlah Lilitan
