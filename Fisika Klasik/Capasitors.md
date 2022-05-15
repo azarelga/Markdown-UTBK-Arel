@@ -16,7 +16,7 @@ V = Beda Potensial (Volt)
 ## Kapasitor Keping
 >$$C = \frac{\mathcal{E}_{0} kA}{d} $$
 C = Kapasitansi (Faraday)
-$\mathcal{E}_{0}$ = Permitivitas Ruang Vakum (Faraday / meter)
+$\mathcal{E}_{0}$ = Permitivitas Ruang Vakum (Faraday / meter) = $8,5 \times 10^{-12}$ 
 $A$ = Luas Keping ($m^{2}$)
 d = Jarak pisah antarkeping
 k = 9 x 10^9 
