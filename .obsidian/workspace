@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Capasitors.md",
+            "file": "Fisika Klasik/Gaya Sentripetal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Capasitors.md",
+                "file": "Fisika Klasik/Gaya Sentripetal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Fisika Klasik/Gaya Sentripetal.md",
     "Fisika Klasik/Capasitors.md",
     "Fisika Klasik/Daya Listrik.md",
     "Fisika Klasik/Listrik Dinamis.md",
@@ -106,7 +107,6 @@
     "Fisika Klasik/Hukum Henry.md",
     "Fisika Klasik/Induksi Magnetik.md",
     "Fisika Klasik/Induksi Elektromagnetik.md",
-    "Fisika Klasik/Gaya Pegas.md",
-    "MOC Fisika Klasik.md"
+    "Fisika Klasik/Gaya Pegas.md"
   ]
 }
