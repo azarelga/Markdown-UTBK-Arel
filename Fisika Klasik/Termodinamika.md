@@ -26,6 +26,7 @@ Hukum 2 Termodinamika adalah implementasi dari **Mesin Karnot**
 Rumus dari Mesin Karnot ialah
  >$$\eta = (1-\frac{Q_C}{Q_{H}})\times 100 \% $$
 
+**Ingat!** di mesin karnot, suhunya selalu **Kelvin**
 
 ## Kalor Jenis
 ![[Pasted image 20220508160644.png]]

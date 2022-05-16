@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Gaya Sentripetal.md",
+            "file": "Fisika Klasik/Termodinamika.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frekuensi",
+                "query": "termodinamika",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Gaya Sentripetal.md",
+                "file": "Fisika Klasik/Termodinamika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +99,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Fisika Klasik/Gaya Sentripetal.md",
-    "Fisika Klasik/Capasitors.md",
-    "Fisika Klasik/Daya Listrik.md",
-    "Fisika Klasik/Listrik Dinamis.md",
-    "Fisika Klasik/Listrik Bolak-Balik.md",
+    "Fisika Klasik/Termodinamika.md",
+    "MOC Fisika Klasik.md",
+    "Fisika Klasik/Zat dan Kalor.md",
+    "Fisika Klasik/Transformator.md",
+    "Fisika Klasik/Induktor (Magnet).md",
     "Fisika Klasik/Induktor.md",
-    "Fisika Klasik/Hukum Henry.md",
-    "Fisika Klasik/Induksi Magnetik.md",
-    "Fisika Klasik/Induksi Elektromagnetik.md",
-    "Fisika Klasik/Gaya Pegas.md"
+    "Fisika Klasik/Listrik Bolak-Balik.md",
+    "Fisika Klasik/Torsi.md",
+    "Fisika Klasik/Resultan Vektor.md",
+    "Fisika Klasik/Rangkaian Listrik.md"
   ]
 }
