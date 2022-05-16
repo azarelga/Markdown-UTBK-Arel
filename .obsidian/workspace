@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Termodinamika.md",
+            "file": "Fisika Klasik/Momentum dan Impuls.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "termodinamika",
+                "query": "momentum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Termodinamika.md",
+                "file": "Fisika Klasik/Momentum dan Impuls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Fisika Klasik/Momentum dan Impuls.md",
     "Fisika Klasik/Termodinamika.md",
     "MOC Fisika Klasik.md",
     "Fisika Klasik/Zat dan Kalor.md",
@@ -107,7 +108,6 @@
     "Fisika Klasik/Induktor.md",
     "Fisika Klasik/Listrik Bolak-Balik.md",
     "Fisika Klasik/Torsi.md",
-    "Fisika Klasik/Resultan Vektor.md",
-    "Fisika Klasik/Rangkaian Listrik.md"
+    "Fisika Klasik/Resultan Vektor.md"
   ]
 }

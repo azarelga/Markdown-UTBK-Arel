@@ -8,3 +8,6 @@
 > $$I = \triangle P =F. \triangle t$$
 > Selain itu, perubahan momentum/impuls dapat didefinisikan dengan
 > $$\triangle P = m (v_{2}-v_{1})$$
+
+#### NOTE!
+- Kalo udah disebutin **Gaya Minimum** di soal, pake rumus Impuls ya!
