@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Satuan Fisika.md",
+            "file": "Fisika Klasik/Gerak Rotasi.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Satuan Fisika.md",
+                "file": "Fisika Klasik/Gerak Rotasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Fisika Klasik/Gerak Rotasi.md",
     "Fisika Klasik/Satuan Fisika.md",
     "Fisika Klasik/Medan Listrik.md",
     "Fisika Modern/Relativitas.md",
@@ -105,7 +106,6 @@
     "Fisika Modern/Teori Gelombang dan Partikel Digabungkan.md",
     "Fisika Modern/Gelombang De Broglie.md",
     "Fisika Modern/Particles.md",
-    "Fisika Modern/Planck Discoveries.md",
-    "Fisika Modern/Radiasi Benda Hitam.md"
+    "Fisika Modern/Planck Discoveries.md"
   ]
 }
