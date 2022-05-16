@@ -42,7 +42,9 @@ Disini kita meminjam beberapa rumus dari [[Efek Fotolistrik]]
 ### Energi Diam
 >$$E_{0}=m_{0}  \ . c^{2}$$
 ### Energi Total
->$$E = \gamma mc^{2}$$
+>$$E = mc^{2}$$
+> Or
+> $$E=\frac{m_{0}}{\gamma}c^{2}$$
 
 ### Energi Kinetik
 >$$E_{k}= E - m_{o}c^{2}$$
