@@ -37,6 +37,8 @@ $p$ = Momentum benda bergerak
 $v$ = Kecepatan benda
 
 ## Relativitas Energi
+Disini kita meminjam beberapa rumus dari [[Efek Fotolistrik]]
+
 ### Energi Diam
 >$$E_{0}=m_{0}  \ . c^{2}$$
 ### Energi Total

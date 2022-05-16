@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Induktor.md",
+            "file": "Fisika Modern/Relativitas.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Induktor.md",
+                "file": "Fisika Modern/Relativitas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,15 +97,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Fisika Klasik/Induktor.md",
-    "Fisika Klasik/Induksi Magnetik.md",
-    "Fisika Klasik/Momentum dan Impuls.md",
-    "Fisika Klasik/Termodinamika.md",
-    "MOC Fisika Klasik.md",
-    "Fisika Klasik/Zat dan Kalor.md",
-    "Fisika Klasik/Transformator.md",
-    "Fisika Klasik/Induktor (Magnet).md",
-    "Fisika Klasik/Listrik Bolak-Balik.md",
-    "Fisika Klasik/Torsi.md"
+    "Fisika Modern/Relativitas.md",
+    "Fisika Modern/Einstein Discoveries.md",
+    "Fisika Modern/Efek Fotolistrik.md",
+    "Fisika Modern/Teori Gelombang dan Partikel Digabungkan.md",
+    "Fisika Modern/Gelombang De Broglie.md",
+    "Fisika Modern/Particles.md",
+    "Fisika Modern/Planck Discoveries.md",
+    "Fisika Modern/Radiasi Benda Hitam.md",
+    "Fisika Modern/Energi Foton.md",
+    "Fisika Klasik/Induktor.md"
   ]
 }
