@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Hukum Kekekalan Energi.md",
-            "mode": "source",
+            "file": "Kimia/Kesetimbangan.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Hukum Kekekalan Energi.md",
+                "file": "Kimia/Kesetimbangan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Fisika Klasik/Hukum Kekekalan Energi.md",
+    "Kimia/Kesetimbangan.md",
+    "MOC Kimia.md",
+    "Fisika Klasik/Fluida.md",
     "Fisika Klasik/Energi Kinetik.md",
+    "Fisika Klasik/Hukum Kekekalan Energi.md",
     "Fisika Klasik/Energi Potensial Listrik.md",
     "Fisika Klasik/Induktor.md",
     "Fisika Klasik/Gelombang dan Getaran.md",
     "Fisika Klasik/Gerak Melingkar Vertikal.md",
-    "Fisika Klasik/Gerak Harmonik Sederhana.md",
-    "Kimia/Titrasi.md",
-    "Kimia/Titik Didih.md",
-    "Kimia/Reaksi Kimia Organik.md"
+    "Fisika Klasik/Gerak Harmonik Sederhana.md"
   ]
 }
