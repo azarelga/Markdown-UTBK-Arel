@@ -7,7 +7,9 @@
 ![[Pasted image 20220516214330.png]]
 Rumus ini kalo lo bayangin, **Tegangan listrik pada kumparan bakal muncul apabila lo deketin magnet ke kumparan tersebut**. Besar kecilnya tegangan itu **dipengaruhi oleh kecepatan lo saat ngedeketin magnet ini**. Itulah **Hukum Lenz** in a nutshell. 
 
-Ternyata, Hukum Lenz menyatakan bahwa **Medan Magnet Induksi (B')** akan dihasilkan **Berlawanan Arah** dari medan magnet asli (B). Makanya di rumusnya ada simbol negatif
+> **Arus/Medan Induksi selalu berlawanan arah dengan Arus/Medan aslinya** 
+
+Ternyata, Hukum Lenz menyatakan bahwa **Medan Magnet Induksi (B')** akan dihasilkan **Berlawanan Arah** dari medan magnet asli (B). Makanya di rumusnya ada simbol negatif. **Arus juga!**, Arus Induksi (I') selalu berlawanan arah dengan Arus Asli (I)
 
 > $$\varepsilon = - N\frac{d\phi}{dt}$$
 > $\phi$ = $\int \vec{B} . d\vec{A}$  = [[Fluks Magnet]]
