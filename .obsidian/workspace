@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Induktor.md",
-            "mode": "preview",
+            "file": "Fisika Klasik/Hukum Kekekalan Energi.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lenz",
+                "query": "hukum kekekalan energi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.0036334991455,
-    "collapsed": true
+    "width": 312.0036334991455
   },
   "right": {
     "id": "25514f7a01cfaee7",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Induktor.md",
+                "file": "Fisika Klasik/Hukum Kekekalan Energi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Fisika Klasik/Hukum Kekekalan Energi.md",
+    "Fisika Klasik/Energi Kinetik.md",
+    "Fisika Klasik/Energi Potensial Listrik.md",
     "Fisika Klasik/Induktor.md",
     "Fisika Klasik/Gelombang dan Getaran.md",
     "Fisika Klasik/Gerak Melingkar Vertikal.md",
     "Fisika Klasik/Gerak Harmonik Sederhana.md",
     "Kimia/Titrasi.md",
     "Kimia/Titik Didih.md",
-    "Kimia/Reaksi Kimia Organik.md",
-    "Kimia/Kimia Organik.md",
-    "Kimia/Titik Beku.md",
-    "Kimia/Stoikiometri.md"
+    "Kimia/Reaksi Kimia Organik.md"
   ]
 }
