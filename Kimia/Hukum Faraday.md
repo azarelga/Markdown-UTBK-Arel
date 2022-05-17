@@ -19,7 +19,7 @@ dan
 $q = i.t$
 
 Perlu diingat e adalah massa ekivalen dan W adalah massa zat nya (gram). Sehingga kita akan temukan beberapa rumus Faraday yang bervariatif sekali ANJINGGG. 
-#### INgat
+#### Ingat
 Perlu diingat bahwa **1 mol elektron = 1 Faraday**
 
 > $$W = \frac{e.i.t}{96500}$$
@@ -31,6 +31,7 @@ Perlu diingat bahwa **1 mol elektron = 1 Faraday**
 Sebenarnya, i dan t bisa diubah jadi q (yang penting muatan!)
 >$$W=\frac{e.q}{96500}$$
 
+Selain itu, ada beberapa variasi Hukum Faraday
 
 > ## Hukum Faraday I (mol logam)
 > $$F = n_{logam}.e$$
