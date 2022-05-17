@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Modern/Relativitas.md",
+            "file": "Fisika Klasik/Daya Listrik.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lenz",
+                "query": "daya",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Modern/Relativitas.md",
+                "file": "Fisika Klasik/Daya Listrik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,6 +99,8 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Fisika Klasik/Daya Listrik.md",
+    "Fisika Klasik/Induktor.md",
     "Fisika Modern/Relativitas.md",
     "Fisika Modern/Teori Quantum.md",
     "Fisika Modern/Teori Gelombang dan Partikel Digabungkan.md",
@@ -104,8 +108,6 @@
     "Fisika Klasik/Satuan Fisika.md",
     "Fisika Klasik/Medan Listrik.md",
     "Fisika Modern/Einstein Discoveries.md",
-    "Fisika Modern/Efek Fotolistrik.md",
-    "Fisika Modern/Gelombang De Broglie.md",
-    "Fisika Modern/Particles.md"
+    "Fisika Modern/Efek Fotolistrik.md"
   ]
 }

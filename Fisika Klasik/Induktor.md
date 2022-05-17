@@ -17,7 +17,11 @@ Dari hukum ini bisa kita ketahui gantikan fluks magnet apabila $\phi = BA$ denga
 
 > $$\varepsilon = -NA \frac{dB}{dt}$$
 
-
+Selain itu, GGL Induksi dapat dibentuk melalui
+>$$\varepsilon=B.l.v.sin\theta$$
+>$B$ = Medan Magnet
+>$l$ = Panjang
+>$v$ = Kecepatan
 
 ## Induktansi
 > $$\varepsilon = -L \frac{di}{dt}$$

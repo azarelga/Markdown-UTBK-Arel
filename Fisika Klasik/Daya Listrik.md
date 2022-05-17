@@ -13,6 +13,9 @@
 
 Selain itu, kita bisa menghitung total dari $P$ kayak ngitung kapasitor (kebalikannya rangkaian resistor)
 
+##### Note!
+- **Hambatan** pada daya selalu memiliki sifat yang **Kekal.**
+
 ### Paralel
 $$P_{total}=P_{1}+P_2$$
 
