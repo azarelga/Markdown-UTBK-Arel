@@ -134,11 +134,6 @@ Terjadi kalo misalnya silau bangett (sinarnya kebanyakan). Kalo misalnya sinarny
 **Output**
 G3P (untuk buat glukosa)
 
-
-
-
-
-
 ## Kemosintesis
 Weird fellas doing some idk farming karbohidrat with senyawa kimia??? For example :
 

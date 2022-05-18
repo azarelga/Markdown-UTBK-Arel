@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kimia/Hibridisasi.md",
+            "file": "Biologi/Hereditas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8044754900fb90af",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biologi/Katabolisme.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.0036334991455,
-    "collapsed": true
+    "width": 312.0036334991455
   },
   "right": {
     "id": "25514f7a01cfaee7",
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kimia/Hibridisasi.md",
+                "file": "Biologi/Hereditas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +110,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Biologi/Hereditas.md",
+    "Biologi/Anabolisme.md",
+    "Biologi/Sintesis Protein.md",
+    "Biologi/Katabolisme.md",
+    "Biologi/Replikasi DNA.md",
+    "Biologi/DNA.md",
+    "Biologi/Epitel.md",
+    "Fisika Klasik/Satuan Fisika.md",
     "Kimia/Hibridisasi.md",
-    "Kimia/Kesetimbangan.md",
-    "Kimia/Formal Charge.md",
-    "Kimia/Ikatan Kimia.md",
-    "Fisika Modern/Efek Fotolistrik.md",
-    "Fisika Modern/Gelombang De Broglie.md",
-    "Fisika Modern/Teori Gelombang dan Partikel Digabungkan.md",
-    "Fisika Modern/Einstein Discoveries.md",
-    "Fisika Modern/Teori Quantum.md",
-    "Fisika Modern/Relativitas.md"
+    "Kimia/Kesetimbangan.md"
   ]
 }
