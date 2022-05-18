@@ -41,8 +41,8 @@ maka, rumus **kesetimbangan tekanannya** adalah
 >Psar (p besar) -> Kocil (koefisien kecil)
 
 ## 4.  Perubahan Suhu
-- Suhu 📈 -> **Endoterm** (menerima kalor)
-- Suhu 📉 -> **Eksoterm** (mengeluarkan kalor)
+- Suhu 📈 -> **Endoterm** (menerima kalor, **positif**)
+- Suhu 📉 -> **Eksoterm** (mengeluarkan kalor, **negatif**)
 
 ### Note!
 >Beri -> Memberi

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Modern/Efek Fotolistrik.md",
+            "file": "Kimia/Hibridisasi.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Modern/Efek Fotolistrik.md",
+                "file": "Kimia/Hibridisasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Kimia/Hibridisasi.md",
+    "Kimia/Kesetimbangan.md",
+    "Kimia/Formal Charge.md",
+    "Kimia/Ikatan Kimia.md",
     "Fisika Modern/Efek Fotolistrik.md",
     "Fisika Modern/Gelombang De Broglie.md",
     "Fisika Modern/Teori Gelombang dan Partikel Digabungkan.md",
     "Fisika Modern/Einstein Discoveries.md",
     "Fisika Modern/Teori Quantum.md",
-    "Fisika Modern/Relativitas.md",
-    "Fisika Modern/Efek Compton.md",
-    "Fisika Modern/Energi Foton.md",
-    "Fisika Klasik/Hukum Kekekalan Energi.md",
-    "Fisika Klasik/Fluida.md"
+    "Fisika Modern/Relativitas.md"
   ]
 }
