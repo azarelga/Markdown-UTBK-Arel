@@ -8,6 +8,10 @@ $E_{K}$ = **[[Energi Kinetik]] Foton yang terpantul**
 $E_{n}$ = [[Energi Foton]]
 $W$ = **Usaha ambang dari keping yang dipantulkan**
 
+Kalo kita pecahkan, menjadi
+>$$E_{K}=hf-hf_{0}$$
+>$f_{0}$= Frekuensi Ambang Logam
+
 ## Potensial Penghenti
 Selain itu, energi kinetik foton dapat disamakan dengan
 > $$E_{K}= E_{pListrik}$$

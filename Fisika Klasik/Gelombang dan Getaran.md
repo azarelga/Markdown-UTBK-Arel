@@ -5,9 +5,15 @@ Getaran memiliki berbagai macam konsep, termasuk seperti [[Gaya Pegas]] dan [[El
 Materi - materi gelombang terdiri seperti [[Gerak Harmonik Sederhana]]
 
 ## Gelombang Berjalan
-> $$y = A sin(wt \ \pm \ kx )$$
+> $$y = A sin(wt \ \pm \ kx \ \pm \theta_0  )$$
 > k  = bilangan gelombang
 > x = jarak titik dari pusat
+
+Yang perlu diperhatikan :
+**A = +** jika arah getar pertama **ke atas** (kuadran 1/2)
+**A = -** jika arah getar pertama **ke bawah** (kuadran 4/3)
+**k = +** jika arah gelombang **ke kiri** (sumbu x -)
+**k = -** jika arah gelombang **ke kanan** (sumbu x+)
 
 Selain itu, Frekuensi dan Periode pada Gelombang Berjalan sebagai berikut
 
