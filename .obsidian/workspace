@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologi/Hereditas.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8044754900fb90af",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biologi/Katabolisme.md",
+            "file": "Fisika Klasik/Medan Listrik.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologi/Hereditas.md",
+                "file": "Fisika Klasik/Medan Listrik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +98,7 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Fisika Klasik/Medan Listrik.md",
     "Biologi/Hereditas.md",
     "Biologi/Anabolisme.md",
     "Biologi/Sintesis Protein.md",
@@ -118,7 +107,6 @@
     "Biologi/DNA.md",
     "Biologi/Epitel.md",
     "Fisika Klasik/Satuan Fisika.md",
-    "Kimia/Hibridisasi.md",
-    "Kimia/Kesetimbangan.md"
+    "Kimia/Hibridisasi.md"
   ]
 }

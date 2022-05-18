@@ -5,7 +5,7 @@ Medan Listrik merupakan sebuah medan yang menunjukkan satu titik muatan yang mem
 > $$E = \frac{F_{c}}{q} = k \frac{q}{r^{2}}$$
 > $F_{c}$ = [[Gaya Listrik]]
 > $E$ = Kuat Medan Listrik ($NC^{-1}$ atau Tesla) = Volt/meter
-> $k$ = $\frac{1}{4\pi\varepsilon_{o}}$ 
+> $k$ = $\frac{1}{4\pi\varepsilon_{o}}$ farad per meter
 > $q$ = Muatan Listrik (C)
 > r = Jarak antara titik dengan muatan listrik
 
