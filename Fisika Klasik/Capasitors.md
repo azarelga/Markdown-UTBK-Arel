@@ -13,6 +13,8 @@ V = Beda Potensial (Volt)
 
 > Q = C V -> Qicev = kicep
 
+- Arus ga ngalir di rangkaian kapasitor
+
 ## Kapasitor Keping
 >$$C = \frac{\mathcal{E}_{0} kA}{d} $$
 C = Kapasitansi (Faraday)

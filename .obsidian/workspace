@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Hukum Kirchoff.md",
+            "file": "Fisika Klasik/Gerak Rotasi.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Hukum Kirchoff.md",
+                "file": "Fisika Klasik/Gerak Rotasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Fisika Klasik/Gerak Rotasi.md",
+    "Fisika Klasik/Gerak Melingkar Vertikal.md",
+    "Fisika Klasik/Gelombang dan Getaran.md",
+    "Fisika Klasik/Elastisitas.md",
+    "Fisika Klasik/Capasitors.md",
+    "Fisika Klasik/Bunyi.md",
     "Fisika Klasik/Hukum Kirchoff.md",
     "MOC Fisika Klasik.md",
     "MOC Kimia.md",
-    "Kimia/Faktor Van Hoff.md",
-    "Biologi/Anabolisme.md",
-    "Biologi/Metabolisme Tumbuhan.md",
-    "Biologi/Katabolisme.md",
-    "Biologi/Glikolisis.md",
-    "Biologi/Nukleotida.md",
-    "Biologi/Paku.md"
+    "Kimia/Faktor Van Hoff.md"
   ]
 }
