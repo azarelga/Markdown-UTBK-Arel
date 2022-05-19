@@ -28,10 +28,11 @@ $$2H^{+}+2e^{-} \rightarrow H_{2}$$
 $$2H_{2}O + 2e^{-} \rightarrow 2OH^{-}+ H_{2}$$
 - **Kation selain diatas (reduksi)**
   $$X^{+} +e^{-} \rightarrow X$$
-3 Kemungkinan
-- Ada H plus nya
-- Ada gol IA IIA atau ada unsur Al Mn
-- Reduksi biasa
+
+>3 Kemungkinan
+>- **Ada H plus nya**
+>- **Ada gol IA IIA atau ada unsur Al Mn**
+>- **Reduksi biasa**
 
 
 # Reaksi Anoda

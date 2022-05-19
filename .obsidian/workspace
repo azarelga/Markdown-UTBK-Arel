@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Medan Listrik.md",
-            "mode": "source",
+            "file": "Kimia/Sel Elektrolisis.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Medan Listrik.md",
+                "file": "Kimia/Sel Elektrolisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Fisika Klasik/Medan Listrik.md",
-    "Biologi/Hereditas.md",
-    "Biologi/Anabolisme.md",
-    "Biologi/Sintesis Protein.md",
-    "Biologi/Katabolisme.md",
-    "Biologi/Replikasi DNA.md",
-    "Biologi/DNA.md",
-    "Biologi/Epitel.md",
-    "Fisika Klasik/Satuan Fisika.md",
-    "Kimia/Hibridisasi.md"
+    "Kimia/Sel Elektrolisis.md",
+    "MOC Kimia.md",
+    "Kimia/Asam dan Basa.md",
+    "Kimia/Hukum Faraday.md",
+    "Kimia/Reaksi Kimia Organik.md",
+    "Kimia/Formal Charge.md",
+    "Kimia/Hibridisasi.md",
+    "Kimia/Faktor Van Hoff.md",
+    "Kimia/Titik Didih.md",
+    "Kimia/Titik Beku.md"
   ]
 }
