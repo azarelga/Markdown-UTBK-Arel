@@ -3,6 +3,7 @@
 ## Mekanika
 - [[Resultan Vektor]]
 - [[Gaya]]
+- [[Satuan Fisika]]
 - [[GLBB]]
 - [[Projectile Motion]]
 - [[Momentum dan Impuls]]
@@ -12,6 +13,7 @@
 - [[Gerak Harmonik Sederhana]]
 - [[Gerak Melingkar Vertikal]]
 - [[Mechanical Notes]]
+- [[Fluida]]
 ---
 ## [[Termodinamika]]
 - [[Termodinamika#Hukum I]]
@@ -74,8 +76,7 @@
 	- [[Gaya Lorentz#Pada Muatan yang bergerak pada Medan Magnet]]
 	- [[Gaya Lorentz#Muatan yang bergerak Melingkar pada Medan Magnet]]
 	- [[Gaya Lorentz#Right Hand Rule]]
-- [[Induktor (Magnet)]]
 ---
 ## [[Listrik Bolak-Balik]]
----
+
 

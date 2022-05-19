@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisika Klasik/Energi Kinetik.md",
-            "mode": "preview",
+            "file": "Fisika Klasik/Hukum Kirchoff.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Energi Kinetik.md",
+                "file": "Fisika Klasik/Hukum Kirchoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Fisika Klasik/Energi Kinetik.md",
-    "Fisika Klasik/Elastisitas.md",
-    "Fisika Klasik/Energi Gelombang dan Daya.md",
-    "Fisika Klasik/Energi Listrik.md",
-    "Fisika Klasik/Gaya Listrik.md",
-    "Fisika Klasik/Induksi Magnetik.md",
+    "Fisika Klasik/Hukum Kirchoff.md",
     "MOC Fisika Klasik.md",
-    "Fisika Klasik/Mechanical Notes.md",
-    "Fisika Klasik/Gerak Harmonik Sederhana.md",
-    "Fisika Klasik/Gerak Melingkar Vertikal.md"
+    "MOC Kimia.md",
+    "Kimia/Faktor Van Hoff.md",
+    "Biologi/Anabolisme.md",
+    "Biologi/Metabolisme Tumbuhan.md",
+    "Biologi/Katabolisme.md",
+    "Biologi/Glikolisis.md",
+    "Biologi/Nukleotida.md",
+    "Biologi/Paku.md"
   ]
 }

@@ -5,6 +5,7 @@ Physics are soooo fucking dumb to explain why some elements react weirdly when i
 
 ## Atom dan Ikatan Molekul
 - [[Ikatan Kimia]]
+- [[Tabel Periodik Cheatsheet]]
 - [[Hibridisasi]]
 - [[Formal Charge]]
 ---
