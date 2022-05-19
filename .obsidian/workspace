@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kimia/Sel Elektrolisis.md",
+            "file": "Biologi/Anabolisme.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kimia/Sel Elektrolisis.md",
+                "file": "Biologi/Anabolisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Kimia/Sel Elektrolisis.md",
-    "MOC Kimia.md",
-    "Kimia/Asam dan Basa.md",
-    "Kimia/Hukum Faraday.md",
-    "Kimia/Reaksi Kimia Organik.md",
-    "Kimia/Formal Charge.md",
-    "Kimia/Hibridisasi.md",
-    "Kimia/Faktor Van Hoff.md",
-    "Kimia/Titik Didih.md",
-    "Kimia/Titik Beku.md"
+    "Biologi/Anabolisme.md",
+    "Biologi/Biodefinitions.md",
+    "Biologi/Dekarboksilasi.md",
+    "Biologi/Benang Spindel.md",
+    "Biologi/Plantae.md",
+    "Biologi/Replikasi DNA.md",
+    "Biologi/RNA.md",
+    "Biologi/Sintesis Protein.md",
+    "Fisika Klasik/Gerak Melingkar Vertikal.md",
+    "Fisika Klasik/Gaya Sentripetal.md"
   ]
 }

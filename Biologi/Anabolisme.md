@@ -32,6 +32,7 @@ Terjadi pada **Tilakoid**, yang terdapat pada **Grana**(kumpulan tilakoid), yang
 3. Untuk menggantikan *elektron* yang bye bye dari **Fotosistem II**, akan terjadi pemecahan air yang akan menghasilkan
 $$H_{2}O \rightarrow 2H^{+}+ \frac{1}{2} O_{2}+2e^-$$
 	2 *elektron*nya itu bakal ditaro di dalem **Fotosistem II**
+	
 4. Selain 2 elektron yang kepake, **2H+** nya bakal kepake nanti tinggal tungguin aja~
 
 ##### Aliran Elektron continues
