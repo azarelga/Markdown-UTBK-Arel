@@ -9,7 +9,7 @@ Regangan adalah perbandingan pertambahan panjang dan panjang asli
 ## Tegangan
 Tegangan memiliki persamaan yang sama persis dengan [[Tekanan]] karena mereka sama sama memiliki satuan yang sama, rumusnya adalah perbandingan gaya dan luas permukaan
 > $$\sigma = \frac{F}{A}$$
-> $\sigma$ = Tegangang (Pa)
+> $\sigma$ = Tegangan (Pa)
 > F = Gaya
 > A = Luas Permukaan
 
@@ -28,7 +28,7 @@ $F =\frac{E.A.\triangle x}{x_{o}}$
 
 Nah kita familiar kan dengan rumus [[Gaya Pegas]] nih, karena $\triangle x$ nya udah sesuai rumus, maka sisanya bisa kita ambil sehingga menghasilkan
 > $$k = \frac{E.A}{x_{o}}$$
-> k = Konstanta Pegas
+> k = Konstanta Pegas atau Tetapan Pegas
 > E = Modulus Elastisitas (Pa)
 > A = Luas Permukaan
 > $x_{o}$ = Panjang Semula
