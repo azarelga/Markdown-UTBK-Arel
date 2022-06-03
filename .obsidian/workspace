@@ -7,8 +7,12 @@
         "id": "1e3897423aa01f84",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Biologi/Spermatophyta.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tekanan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.0036334991455
+    "width": 183.5036334991455
   },
   "right": {
     "id": "25514f7a01cfaee7",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biologi/Spermatophyta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,19 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.98524475097656
+    "width": 300
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
-    "Kimia/Hibridisasi.md",
-    "Fisika Klasik/Gerak Rotasi.md",
-    "Fisika Klasik/Gerak Melingkar Vertikal.md",
-    "Fisika Klasik/Gelombang dan Getaran.md",
-    "Fisika Klasik/Elastisitas.md",
-    "Fisika Klasik/Capasitors.md",
-    "Fisika Klasik/Bunyi.md",
-    "Fisika Klasik/Hukum Kirchoff.md",
-    "MOC Fisika Klasik.md",
-    "MOC Kimia.md"
+    "Biologi/Spermatophyta.md",
+    "Biologi/Makroplantae.md",
+    "Biologi/Lumut.md",
+    "Biologi/Hereditas.md",
+    "Biologi/Paku.md",
+    "Biologi/Biodefinitions.md",
+    "Biologi/Biochemistry.md",
+    "conflict-files-obsidian-git.md",
+    "Biologi/DNA.md",
+    "MOC Biologi.md"
   ]
 }
