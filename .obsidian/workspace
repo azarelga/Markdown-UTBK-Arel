@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kimia/Kesetimbangan.md",
+            "file": "Kimia/Reaksi Kimia Organik.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kimia/Kesetimbangan.md",
+                "file": "Kimia/Reaksi Kimia Organik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Kimia/Reaksi Kimia Organik.md",
+    "Kimia/Kimia Organik.md",
+    "Kimia/Ikatan Kimia.md",
+    "Kimia/Titrasi.md",
+    "Kimia/Tekanan Osmosis.md",
     "Kimia/Kesetimbangan.md",
     "Kimia/Entalpi.md",
     "Kimia/Faktor Van Hoff.md",
     "Kimia/Bilangan Oksidasi.md",
-    "Kimia/Asam dan Basa.md",
-    "Fisika Modern/Relativitas.md",
-    "Kimia/Hukum Faraday.md",
-    "Kimia/Hibridisasi.md",
-    "Kimia/Ikatan Kimia.md",
-    "Kimia/Titik Didih.md"
+    "Kimia/Asam dan Basa.md"
   ]
 }
