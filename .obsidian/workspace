@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kimia/Hibridisasi.md",
+            "file": "Kimia/Stoikiometri.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kimia/Hibridisasi.md",
+                "file": "Kimia/Stoikiometri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,10 +93,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "1e3897423aa01f84",
   "lastOpenFiles": [
+    "Kimia/Asam dan Basa.md",
+    "Kimia/Hibridisasi.md",
     "Biologi/Spermatophyta.md",
     "Biologi/Makroplantae.md",
     "Biologi/Lumut.md",
@@ -104,8 +107,6 @@
     "Biologi/Paku.md",
     "Biologi/Biodefinitions.md",
     "Biologi/Biochemistry.md",
-    "conflict-files-obsidian-git.md",
-    "Biologi/DNA.md",
-    "MOC Biologi.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
