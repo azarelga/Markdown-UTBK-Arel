@@ -8,7 +8,7 @@
 - [[Projectile Motion]]
 - [[Momentum dan Impuls]]
 - [[Torsi]]
-- [[Gerak Rotasi]]
+- [[Fisika Klasik/Dinamika Rotasi]]
 - [[Gaya Sentripetal]]
 - [[Gerak Harmonik Sederhana]]
 - [[Gerak Melingkar Vertikal]]

@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e3897423aa01f84",
+            "id": "7c6c8c3bb28e0620",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dinamika Rotasi.md",
-                "mode": "source",
+                "file": "Fisika Klasik/Dinamika Rotasi.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d0291329c0ab537d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dinamika Rotasi.md",
+                "file": "Fisika Klasik/Dinamika Rotasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +107,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d0291329c0ab537d",
+  "active": "7c6c8c3bb28e0620",
   "lastOpenFiles": [
-    "Fisika Klasik/Torsi.md",
-    "Fisika Klasik/Mechanical Notes.md",
-    "Kimia/Momen Inersia.md",
-    "Kimia/Hibridisasi.md",
-    "Kimia/Domain Electron.md",
-    "Kimia/Formal Charge.md",
-    "Kimia/Stoikiometri.md",
-    "Kimia/Asam dan Basa.md",
-    "Biologi/Spermatophyta.md",
-    "Biologi/Makroplantae.md"
+    "Dinamika Rotasi.md",
+    "Fisika Klasik/Dinamika Rotasi.md",
+    "Fisika Klasik/Capasitors.md",
+    "Fisika Klasik/Daya Listrik.md",
+    "Fisika Klasik/Energi Potensial Listrik.md",
+    "Fisika Klasik/Energi Listrik.md",
+    "Fisika Klasik/Energi Kinetik.md",
+    "Fisika Klasik/Fluida.md",
+    "Fisika Klasik/Gaya Gerak Listrik.md",
+    "Fisika Klasik/Gaya.md"
   ]
 }
