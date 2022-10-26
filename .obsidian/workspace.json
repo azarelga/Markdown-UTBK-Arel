@@ -4,16 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "1e3897423aa01f84",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Dinamika Rotasi.md",
-            "mode": "source",
-            "source": false
+        "id": "b32d6fea2ca9b2c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e3897423aa01f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dinamika Rotasi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0291329c0ab537d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +48,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -96,7 +115,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e3897423aa01f84",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d0291329c0ab537d",
   "lastOpenFiles": [
     "Fisika Klasik/Torsi.md",
     "Fisika Klasik/Mechanical Notes.md",
