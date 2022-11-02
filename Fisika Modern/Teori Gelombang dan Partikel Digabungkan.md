@@ -1,7 +1,7 @@
 De Broglie nemu ide bahwa ga selamanya panjang gelombang itu memiliki kecepatan cahaya aja, tapi bisa aja dengan kecepatan itu sendiri. Maka, De Broglie dapat menurunkan sebuah rumus Energi Foton dari [[Teori Quantum]] milik Planck dengan cara :
 >$$E = nhf$$
 
-Disini, kita minjem rumus frekuensi $f = \frac{v}{\lambda}$  dari [[Gelombang dan Getaran]], $$E = nh\frac{v}{\lambda}$$ 
+Disini, kita minjem rumus frekuensi $f = \frac{v}{\lambda}$  dari [[Osilasi]], $$E = nh\frac{v}{\lambda}$$ 
 $$m_{o}c^{2}= nh \frac{v}{\lambda}$$ Kita dapat coret v dengan c (kita anggap sama aja),
 $$\lambda = \frac{nh}{m_{o}c}$$
 $$\frac{h}{mv}=\frac{h}{p}$$

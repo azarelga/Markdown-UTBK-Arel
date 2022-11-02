@@ -14,7 +14,7 @@ $f$ = **Frekuensi**
 c = $3 \times 10^{8}\ m /s$ 
 $\lambda$ = **Panjang Gelombang**
 
-Rumus ini juga diketahui dari sebuah konsep pada fisika klasik, yaitu [[Gelombang dan Getaran#Frekuensi]], dimana
+Rumus ini juga diketahui dari sebuah konsep pada fisika klasik, yaitu [[Osilasi#Frekuensi]], dimana
 
 > $$ f = \frac{v}{\lambda}$$
 

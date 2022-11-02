@@ -76,6 +76,6 @@ $w.L = \frac{1}{w.C}$
 $w^{2}=\frac{1}{LC}$
 $w = \sqrt{\frac{1}{LC}}$
 
-Karena kita ketahui dari rumus [[Gerak Harmonik Sederhana#Frekuensi]] bahwa $w = 2\pi f$
+Karena kita ketahui dari rumus [[Osilasi#Frekuensi]] bahwa $w = 2\pi f$
  $2 \pi f = \frac{1}{\sqrt{LC}}$
 > $$f = \frac{1}{2\pi \sqrt{LC}}$$
