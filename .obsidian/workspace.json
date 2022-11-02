@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisika Klasik/Dinamika Rotasi.md",
+                "file": "Fisika Klasik/Gelombang dan Getaran.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Dinamika Rotasi.md",
+                "file": "Fisika Klasik/Gelombang dan Getaran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,13 +104,10 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "7c6c8c3bb28e0620",
   "lastOpenFiles": [
-    "Dinamika Rotasi.md",
     "Fisika Klasik/Dinamika Rotasi.md",
+    "Dinamika Rotasi.md",
     "Fisika Klasik/Capasitors.md",
     "Fisika Klasik/Daya Listrik.md",
     "Fisika Klasik/Energi Potensial Listrik.md",
