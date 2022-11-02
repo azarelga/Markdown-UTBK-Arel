@@ -1,5 +1,5 @@
 # Gelombang
-Gelombang adalah sekumpulan getaran yang membentuk suatu grafik sinusoidal. Gelombang memiliki berbagai macam konsep, termasuk seperti [[Gaya Pegas]] dan [[Elastisitas]]. Osilasi juga biasanye disebut **Gerak Harmonik Sederhana** tapi ya sama aja si.
+Gelombang adalah sekumpulan getaran yang membentuk suatu grafik sinusoidal. Gelombang memiliki berbagai macam konsep, termasuk seperti [[Gaya Pegas]], [[Elastisitas]], dan [[Bandul]]. Osilasi juga biasanye disebut **Gerak Harmonik Sederhana** tapi ya sama aja si.
 
 ![[Pasted image 20221102092935.png]]
 ## Frekuensi
