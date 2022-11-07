@@ -42,19 +42,47 @@ $$-w^2x=\frac{-k}{m}x$$
 >$$f = \frac{1}{T}= \frac{1}{2\pi}\sqrt{\frac{k}{m}}$$
 >$f$ = Frekuensi (Hz)
 
-## Konstanta Pegas
+## Sudut Fase
+Estimasi dari sudut fase sebagai berikut
+> $$x(t) = A\cos(wt+\phi)$$
+> $\phi$ = Sudut fase
 
+Dengan sudut fase merupakan sudut awal dari objek sebelum berosilasi
+***Contoh :***
+![[Pasted image 20221107093043.png|300]]
+Saat t = 0, objek sudah berada pada A. Sehingga 
+$x(0) = A \cos (w.0+\phi) = A cos(\phi)=A$  
+
+Oleh karena itu, diperoleh
+$cos(\phi) = 1$
+$\phi = \cos^{-1}(1) = 0$
+
+***Contoh 2 :***
+![[Pasted image 20221107093343.png|300]]
+Saat t = 0, objek berada pada 0 sehingga
+$x(0) = A \cos(w.0 + \phi) = A\cos(\phi)= 0$
+
+Diperoleh
+$\cos(\phi) = 0$
+
+Ada dua kemungkinan, yaitu $\cos(90)$ atau $\cos (270)$. Maka, kita cari pake persamaan kecepatan
+$v(0) = -Awsin(w.0+\phi) = -Aw sin(\phi) = Aw$
+
+Jadi $Aw$ karena dia kecepatannya ke arah luar pegas sehingga
+$sin(\phi) = -1$
+$\phi = sin^{-1} (-1) = 270$
 
 
 ## Kekekalan Energi Pegas
 ![[Pasted image 20220513183823.png]]
 
 ### Energi Kinetik Pegas
->$$EK=\frac{1}{2}mv^2=\frac{1}{2}mw^{2}A^{2}\sin^{2}wt$$
+>$$EK=\frac{1}{2}mv^{2} $$$$EK_{pegas}=\frac{1}{2}mw^{2}A^{2}\sin^{2}(wt)$$
 
 ### Energi Potensial Pegas
->$$EP=\frac{1}{2}kx^2=\frac{1}{2}mw^2A^{2}\cos^{2}wt$$
+>$$EP=\frac{1}{2}kx^2$$ $$EP_{pegas}=\frac{1}{2}mw^2A^{2}\cos^{2}(wt)$$
+>$$EP_{pegas}= \frac{1}{2}k(A\cos(wt))^2$$
 
 ### Energi Mekanik Pegas
->$$EM=EK+EP=\frac{1}{2}m(Aw)^{2}(\sin wt+\cos wt)$$
+>$$EM=EK+EP=\frac{1}{2}m(Aw)^{2}=\frac{1}{2}kA^{2}$$
 

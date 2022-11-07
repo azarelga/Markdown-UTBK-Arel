@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisika Klasik/Bandul.md",
+                "file": "Fisika Klasik/Gaya Pegas.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 298,
+    "collapsed": true
   },
   "right": {
     "id": "25514f7a01cfaee7",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Bandul.md",
+                "file": "Fisika Klasik/Gaya Pegas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,9 +120,9 @@
   "active": "b62814bfb0cebeca",
   "lastOpenFiles": [
     "Fisika Klasik/Osilasi.md",
-    "Fisika Klasik/Gerak Harmonik Sederhana.md",
-    "Fisika Klasik/Bandul.md",
     "Fisika Klasik/Gaya Pegas.md",
+    "Fisika Klasik/Bandul.md",
+    "Fisika Klasik/Gerak Harmonik Sederhana.md",
     "Fisika Klasik/Elastisitas.md",
     "Fisika Klasik/Momentum dan Impuls.md",
     "Fisika Klasik/Medan Listrik.md",
