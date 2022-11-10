@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b32d6fea2ca9b2c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7c6c8c3bb28e0620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fisika Klasik/Gaya Pegas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b62814bfb0cebeca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fisika Klasik/Osilasi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "ed8981cb8f8e54bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+<<<<<<< HEAD
+            "file": "Dinamika Rotasi.md",
+=======
+            "file": "MOC Biologi.md",
+>>>>>>> 8dad151a8394dd04184996d8e0521b6d07a9541c
+            "mode": "source",
+            "source": false
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
     "direction": "vertical"
@@ -50,9 +35,7 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "state": {}
             }
           },
           {
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tekanan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +57,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 298
+=======
+    "width": 312.0036334991455
+>>>>>>> 8dad151a8394dd04184996d8e0521b6d07a9541c
   },
   "right": {
     "id": "25514f7a01cfaee7",
@@ -90,7 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Osilasi.md",
+<<<<<<< HEAD
+                "file": "Dinamika Rotasi.md",
+=======
+                "file": "MOC Biologi.md",
+>>>>>>> 8dad151a8394dd04184996d8e0521b6d07a9541c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +105,37 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+<<<<<<< HEAD
+    "width": 300,
+    "collapsed": true
+=======
+    "width": 240.98524475097656
+>>>>>>> 8dad151a8394dd04184996d8e0521b6d07a9541c
   },
-  "active": "b62814bfb0cebeca",
+  "active": "ed8981cb8f8e54bb",
   "lastOpenFiles": [
-    "Fisika Klasik/Gaya Pegas.md",
-    "Fisika Klasik/Osilasi.md",
-    "Fisika Klasik/Bandul.md",
-    "Fisika Klasik/Gerak Harmonik Sederhana.md",
-    "Fisika Klasik/Elastisitas.md",
-    "Fisika Klasik/Momentum dan Impuls.md",
-    "Fisika Klasik/Medan Listrik.md",
-    "Fisika Modern/Teori Quantum.md",
-    "Fisika Modern/Gelombang De Broglie.md",
-    "Fisika Modern/Energi Foton.md"
+<<<<<<< HEAD
+    "Fisika Klasik/Torsi.md",
+    "Fisika Klasik/Mechanical Notes.md",
+    "Kimia/Momen Inersia.md",
+    "Kimia/Hibridisasi.md",
+    "Kimia/Domain Electron.md",
+    "Kimia/Formal Charge.md",
+    "Kimia/Stoikiometri.md",
+    "Kimia/Asam dan Basa.md",
+    "Biologi/Spermatophyta.md",
+    "Biologi/Makroplantae.md"
+=======
+    "MOC Biologi.md",
+    "Markdown-UTBK-Arel/Biologi/Biodefinitions.md",
+    "Fisika Klasik/Bunyi.md",
+    "Fisika Modern/Efek Compton.md",
+    "Fisika Modern/Efek Fotolistrik.md",
+    "Fisika Modern/Einstein Discoveries.md",
+    "Fisika Modern/Relativitas.md",
+    "Fisika Modern/Radiasi Benda Hitam.md",
+    "Kimia/Reaksi Kimia Organik.md",
+    "Kimia/Kimia Organik.md"
+>>>>>>> 8dad151a8394dd04184996d8e0521b6d07a9541c
   ]
 }
