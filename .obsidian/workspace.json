@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c6c8c3bb28e0620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fisika Klasik/Gaya Pegas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b62814bfb0cebeca",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,15 +105,15 @@
   },
   "active": "b62814bfb0cebeca",
   "lastOpenFiles": [
-    "Fisika Klasik/Osilasi.md",
+    "Fisika Klasik/Dinamika Rotasi.md",
+    "Fisika Klasik/Dinamika Rotasi 1.md",
     "Fisika Klasik/Gaya Pegas.md",
+    "Fisika Klasik/Osilasi.md",
     "Fisika Klasik/Bandul.md",
     "Fisika Klasik/Gerak Harmonik Sederhana.md",
     "Fisika Klasik/Elastisitas.md",
     "Fisika Klasik/Momentum dan Impuls.md",
     "Fisika Klasik/Medan Listrik.md",
-    "Fisika Modern/Teori Quantum.md",
-    "Fisika Modern/Gelombang De Broglie.md",
-    "Fisika Modern/Energi Foton.md"
+    "Fisika Modern/Teori Quantum.md"
   ]
 }
