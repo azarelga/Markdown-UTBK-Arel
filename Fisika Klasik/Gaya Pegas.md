@@ -7,7 +7,10 @@ Gaya Pegas datang dari sebuah hukum yang bernama **Hukum Hooke** yang menyatakan
 Misal suatu pegas dipress atau ditarik dengan suatu gaya sebesar $F_{s} = ma_{x}$. Kemudian, pegas akan memiliki suatu gaya pegas sebesar $F_{T}=kx$. Karena pegas tidak dipercepat, maka $\sum\limits F= F_{s}+F_{t}=0$ atau
 $$ma_{x}+kx=0$$
 Persamaan tersebut memiliki persamaan gerak yaitu
-$$\frac{d^{2}x}{dt^{2}}+ \frac{k}{m}x=0$$
+>$$\frac{d^{2}x}{dt^{2}}+ \frac{k}{m}x=0$$
+
+Persamaan di atas perlu **diingat** karena turunannya penting banget.
+
 Atau, persamaan tersebut dapat dicari $F_s$ sebagai berikut
 $$ma_x=-kx$$
 > $$F_{s}= -kx$$
