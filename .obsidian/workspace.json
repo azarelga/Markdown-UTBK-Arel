@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisika Klasik/Gaya Pegas.md",
+                "file": "Fisika Klasik/Elastisitas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8b2c8ce66a88779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fisika Klasik/Mekanika Benda - Benda yang Berubah Bentuk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "195dc10f6ba7e249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fisika Klasik/Fluida.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Gaya Pegas.md",
+                "file": "Fisika Klasik/Fluida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "b62814bfb0cebeca",
+  "active": "195dc10f6ba7e249",
   "lastOpenFiles": [
+    "Fisika Klasik/Elastisitas.md",
+    "Fisika Klasik/Mekanika Benda - Benda yang Berubah Bentuk.md",
+    "Fisika Klasik/Fluida.md",
+    "Fisika Klasik/Energi Listrik.md",
+    "Fisika Klasik/Gaya Pegas.md",
     "Fisika Klasik/Dinamika Rotasi.md",
     "Fisika Klasik/Dinamika Rotasi 1.md",
-    "Fisika Klasik/Gaya Pegas.md",
     "Fisika Klasik/Osilasi.md",
     "Fisika Klasik/Bandul.md",
-    "Fisika Klasik/Gerak Harmonik Sederhana.md",
-    "Fisika Klasik/Elastisitas.md",
-    "Fisika Klasik/Momentum dan Impuls.md",
-    "Fisika Klasik/Medan Listrik.md",
-    "Fisika Modern/Teori Quantum.md"
+    "Fisika Klasik/Gerak Harmonik Sederhana.md"
   ]
 }
