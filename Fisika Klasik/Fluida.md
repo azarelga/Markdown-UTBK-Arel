@@ -64,9 +64,9 @@ Jika h adalah tinggi gaya resultan terhadap 0, maka
 >$$\tau_{0}=Fh=\frac{1}{2}\rho gLH^{2}h$$
 
 ## Tegangan Permukaan
-Tegangan permukaan adalah **gaya atau tarikan ke bawah yang menyebabkan permukaan cairan berkontraksi dan benda dalam keadaan tegang**. Tegangan permukaan bisa menjelaskan kek "KOK BISA DA ANJING DAONNYA NGAMBANG DI ATAS AIR" dengan memperhatikan panjang dari benda dan besarnya gaya berat dari benda tersebut
+Tegangan permukaan adalah **gaya atau tarikan ke bawah yang menyebabkan permukaan cairan berkontraksi dan benda dalam keadaan tegang**. Tegangan permukaan bisa menjelaskan kek "KOK BISA DA ANJING DAONNYA NGAMBANG DI ATAS AIR" dengan memperhatikan panjang dan besarnya gaya berat dari benda tersebut.
 
-![[Pasted image 20221115222638.png]]
+![[Pasted image 20221115222638.png|400]]
 
 >$$\gamma =\frac{F}{2L}$$
 > $\gamma$ = Tegangan Permukaan (N/m)
