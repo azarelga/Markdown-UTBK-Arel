@@ -1,4 +1,4 @@
-# Table Of Contents
+	# Table Of Contents
 - [Definisi](Fisika%20Klasik/Dinamika%20Rotasi.md#Definisi)
 - [Rumus - Rumus](Fisika%20Klasik/Dinamika%20Rotasi.md#Rumus%20-%20Rumus)
 	- [Inersia](Fisika%20Klasik/Dinamika%20Rotasi.md#Inersia)
