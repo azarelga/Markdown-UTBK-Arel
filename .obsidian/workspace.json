@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisika Klasik/Fluida.md",
+                "file": "Fisika Klasik/Osilasi.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Fluida.md",
+                "file": "Fisika Klasik/Osilasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,14 +107,14 @@
   "active": "195dc10f6ba7e249",
   "lastOpenFiles": [
     "Fisika Klasik/Dinamika Rotasi.md",
+    "Fisika Klasik/Osilasi.md",
+    "Fisika Klasik/Fluida.md",
     "Fisika Klasik/Energi Kinetik.md",
     "Fisika Klasik/Energi Listrik.md",
     "Fisika Klasik/Energi Gelombang dan Daya.md",
-    "Fisika Klasik/Osilasi.md",
     "Fisika Klasik/Momentum dan Impuls.md",
     "Fisika Klasik/Transformator.md",
     "Fisika Klasik/Induktor.md",
-    "Fisika Klasik/Induksi Magnetik.md",
-    "Fisika Klasik/Hukum Kekekalan Energi.md"
+    "Fisika Klasik/Induksi Magnetik.md"
   ]
 }
