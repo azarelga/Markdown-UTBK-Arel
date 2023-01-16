@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisika Klasik/Dinamika Rotasi.md",
+                "file": "Study Sources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aafd0af849724089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 soal integral.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298,
-    "collapsed": true
+    "width": 298
   },
   "right": {
     "id": "25514f7a01cfaee7",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisika Klasik/Dinamika Rotasi.md",
+                "file": "100 soal integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +126,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "195dc10f6ba7e249",
+  "active": "aafd0af849724089",
   "lastOpenFiles": [
+    "Study Sources.md",
+    "Fisika Klasik/Dinamika Rotasi.md",
+    "Fisika Klasik/Untitled.md",
+    "Fisika Klasik/Untitled 1.md",
     "Fisika Klasik/Osilasi.md",
     "Fisika Klasik/Momentum dan Impuls.md",
-    "Fisika Klasik/Dinamika Rotasi.md",
     "Fisika Klasik/GLBB.md",
     "Fisika Klasik/Gaya Newton.md",
     "Fisika Klasik/Fluida.md",
-    "Fisika Klasik/Energi Kinetik.md",
-    "Fisika Klasik/Energi Listrik.md",
-    "Fisika Klasik/Energi Gelombang dan Daya.md",
-    "Fisika Klasik/Transformator.md"
+    "Fisika Klasik/Energi Kinetik.md"
   ]
 }
